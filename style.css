@@ -1,0 +1,133 @@
+body {
+    background: rgb(42,42,42);
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+nav {
+    background: #161616 ;
+    padding: 20px 30px;
+}
+
+ul {
+   margin: 0;
+   padding: 0;
+   list-style: none;
+}
+
+
+li {
+   display: inline-block;
+    margin: 0px 20px 0px 20px;
+}
+
+
+/* a is the tag for a link */
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:hover {
+    color: #fced00 ;
+}
+
+.topText {
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 40pt;
+}
+
+.topContainer {
+    height: 100px;
+}
+
+.aboutMeHomeSection {
+    height: 450px;
+}
+
+.artHomeSection {
+    background: #55715b;
+    height: 550px;
+}
+
+.homeTextContainer {
+    background: crimson;
+    background-image: url("images/WhatSemPruijsIs.png");
+    background-position: center;
+    background-size: 100%;
+    width: 500px;
+    height: 280px;
+    position: center;
+    margin: auto;
+}
+
+.artContainer {
+    display: flex;
+    flex-direction: row;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.learnMoreContainer {
+    background: #f98800;
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.seeMoreContainer {
+    background: #6fac7c;
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    border-radius: 10px;
+    position: relative;
+    top: -15px;
+}
+
+.learnMoreText {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 20pt;
+}
+
+.seeMoreText {
+    margin: 20px;
+    padding: 0;
+    text-align: center;
+    font-size: 20pt;
+
+}
+
+.neonCatPaitingHome {
+    color: darkorange;
+    background-image: url("Images/NeonCat.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 500px;
+    height: 375px;
+    position: center;
+    margin: auto;
+
+}
+
+.squirrelPaintingHome {
+    color: darkorange;
+    background-image: url("Images/squirrel.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 436px;
+    height: 354px;
+    position: center;
+    margin: auto;
+}
+
+

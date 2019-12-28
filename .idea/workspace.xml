@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sempruijs.nl" />
+  </component>
+  <component name="ProjectId" id="1U3t0HqD7OeZqbFVXle94JtqMW0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sempruijs.nl/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",HTML5_OUTLINE_MODE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="" />
+      <created>1574596881603</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574596881603</updated>
+      <workItem from="1574596884769" duration="158000" />
+      <workItem from="1574597062991" duration="1003000" />
+      <workItem from="1574598320009" duration="175000" />
+      <workItem from="1574598517315" duration="4886000" />
+      <workItem from="1574961763499" duration="718000" />
+      <workItem from="1575113791304" duration="1059000" />
+      <workItem from="1575116563567" duration="1265000" />
+      <workItem from="1575706103474" duration="9670000" />
+      <workItem from="1577536728685" duration="4469000" />
+      <workItem from="1577541931661" duration="4000" />
+      <workItem from="1577541974814" duration="14923000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="598" y="541" width="511" height="899" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577544410806">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="598" y="541" width="511" height="899" key="#com.intellij.fileTypes.FileTypeChooser/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577544410806" />
+    <state x="973" y="564" key="com.intellij.ide.util.TipDialog" timestamp="1577541974696">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="973" y="564" key="com.intellij.ide.util.TipDialog/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577541974696" />
+    <state x="945" y="346" width="670" height="675" key="run.anything.popup" timestamp="1577544979097">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="945" y="346" width="670" height="675" key="run.anything.popup/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577544979097" />
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1577541983776">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577541983776" />
+  </component>
+</project>
