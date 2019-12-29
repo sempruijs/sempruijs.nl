@@ -1,5 +1,6 @@
 body {
     background: rgb(42,42,42);
+    color: #FFFFFF;
     margin: 0;
     padding: 0;
     font-family: 'Noto Sans JP', sans-serif;
@@ -46,7 +47,7 @@ a:hover {
 }
 
 .aboutMeHomeSection {
-    height: 450px;
+    height: 480px;
 }
 
 .artHomeSection {
@@ -207,5 +208,53 @@ a:hover {
     font-size: 20pt;
 }
 
+/*The Websta home section*/
+.webstaHomeSection {
+    background: #3093d6;
+    height: 300px;
+}
 
+.webstaText {
+    font-family: 'Russo One', sans-serif;
+    color: #FFFFFF;
+    font-size: 75pt;
+    text-align: center;
+}
+
+.wostaForTheWebText {
+    font-family: 'Russo One', sans-serif;
+    color: #FFFFFF;
+    font-size: 25pt;
+    text-align: center;
+}
+
+.playNowContainer {
+    background: #ff734e;
+    width: 300px;
+    height: 60px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.playNowText {
+    color: #FFFFFF;
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+    font-size: 30pt;
+    font-family: 'Russo One', sans-serif;
+}
+
+
+/*copy Wright section*/
+.copyright {
+    background: #161616 ;
+    color: #6c6c6c;
+    margin: 0;
+    padding: 6px 28px;
+    position: fixed;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+}
 
