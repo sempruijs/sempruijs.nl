@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -33,14 +32,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sempruijs.nl/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/sempruijs.nl/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -84,6 +78,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="598" y="541" width="511" height="899" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577544410806">
       <screen x="0" y="23" width="2560" height="1417" />
@@ -93,6 +98,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="973" y="564" key="com.intellij.ide.util.TipDialog/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577541974696" />
+    <state x="148" y="131" width="824" height="810" key="find.popup" timestamp="1577618169608">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="148" y="131" width="824" height="810" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1577618169608" />
     <state x="945" y="346" width="670" height="675" key="run.anything.popup" timestamp="1577544979097">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
