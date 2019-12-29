@@ -210,7 +210,7 @@ a:hover {
 
 /*The Websta home section*/
 .webstaHomeSection {
-    background: #3093d6;
+    background: #33a3ff;
     height: 300px;
 }
 
@@ -256,5 +256,21 @@ a:hover {
     bottom: 0px;
     height: 30px;
     width: 100%;
+}
+
+
+/*Websta page*/
+.WebstaTopSection {
+    background: #2088fb;
+    height: 100px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size: 60pt;
+}
+
+.WebstaBody {
+    background: #0e2333;
 }
 

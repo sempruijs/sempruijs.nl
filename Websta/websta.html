@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Websta</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="stylesheet" href="../style.css">
+    <link href="https://fonts.googleapis.com/css?family=Russo+One&display=swap" rel="stylesheet">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/Websta.json", {onProgress: UnityProgress});
+    </script>
+  </head>
+  <body class="WebstaBody">
+
+  <nav>
+    <ul>
+      <li> <a href="../index.html">Home</a></li>
+      <li><a href="../aboutMe.html">About me</a></li>
+      <li><a href="../projects.html">Projects</a></li>
+      <li><a href="../music.html">Music</a></li>
+      <li><a href="../art.html">Art</a></li>
+      <li><a href="Websta/websta.html">Websta</a></li>
+    </ul>
+  </nav>
+
+  <div class="WebstaTopSection">Websta</div>
+
+    <div class="webgl-content">
+      <div id="unityContainer" style="width: 960px; height: 600px"></div>
+      <div class="footer">
+        <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
+      </div>
+    </div>
+
+    <div class="copyright">copyright-2020 Sem Pruijs</div>
+  </body>
+</html>
