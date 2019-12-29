@@ -179,3 +179,33 @@ a:hover {
     font-size: 20pt;
 }
 
+/*The music home section*/
+
+.MusicHomeSection {
+    background: #9490bf;
+    height: 400px;
+}
+
+.MusicTopContainer {
+    background: #b1ace5;
+    height: 100px;
+}
+
+.hearMoreContainer {
+    background: #b9b9b9;
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.hearMoreMusicText {
+    color: #FFFFFF;
+    margin: 20px;
+    padding: 0;
+    text-align: center;
+    font-size: 20pt;
+}
+
+
+
