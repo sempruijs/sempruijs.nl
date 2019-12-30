@@ -34,6 +34,15 @@ a:hover {
     color: #fced00 ;
 }
 
+section {
+    border-bottom: 4px solid #161616;
+}
+
+.sectionDivider {
+    background-color: #f98800;
+}
+
+
 .topText {
     margin: 0;
     padding: 0;

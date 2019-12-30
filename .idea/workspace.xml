@@ -4,6 +4,12 @@
     <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Websta/websta.html" beforeDir="false" afterPath="$PROJECT_DIR$/Websta/websta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/art.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +104,10 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="591" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577650935940" />
+    <state x="670" y="449" key="RollbackChangesDialog" timestamp="1577710354016">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="670" y="449" key="RollbackChangesDialog/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577710354016" />
     <state x="973" y="564" key="com.intellij.ide.util.TipDialog" timestamp="1577541974696">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
