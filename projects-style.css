@@ -1,0 +1,159 @@
+body {
+    background: rgb(42,42,42);
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+nav {
+    background: #161616 ;
+    padding: 20px 30px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+li {
+    display: inline-block;
+    margin: 0px 20px 0px 20px;
+}
+
+
+/* a is the tag for a link */
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:hover {
+    color: #fced00 ;
+}
+
+/*Copyright bar at the bottem*/
+.copyright {
+    background: #161616 ;
+    color: #6c6c6c;
+    margin: 0;
+    padding: 6px 28px;
+    position: fixed;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+}
+
+
+/*Title under the navigation bar*/
+.title {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 70px;
+    height: 80px;
+    max-width: 300px;
+    background: #161616;
+    border-radius: 10px;
+    margin: 50px auto;
+    font-size: 35pt;
+}
+
+
+#sempruijs-dot-nl-title {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    height: 60px;
+    max-width: 250px;
+    background: #eb053d;
+    border-radius: 10px;
+    margin: 50px auto;
+    font-size: 20pt;
+}
+
+#wosta-title {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    height: 60px;
+    max-width: 250px;
+    background: #e4421e;
+    border-radius: 10px;
+    margin: 50px auto;
+    font-size: 20pt;
+}
+
+#aMAZEing-title {
+    background: #e49b1e;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    height: 60px;
+    max-width: 250px;
+    border-radius: 10px;
+    margin: 50px auto;
+    font-size: 20pt;
+}
+
+#Tic-tac-Pro-title {
+
+    background: #94e51e;
+    border-radius: 10px;
+    font-size: 20pt;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    max-width: 250px;
+    margin: 50px auto;
+}
+
+#Intro-to-App-Development-with-Swift-title {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    height: 60px;
+    max-width: 250px;
+    background: #2ae57c;
+    border-radius: 10px;
+    margin: 50px auto;
+    font-size: 10pt;
+}
+
+#Learn-to-Code-1-2-3-title {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    height: 60px;
+    max-width: 250px;
+    background: #26bedf;
+    border-radius: 10px;
+    margin: 50px auto;
+    font-size: 15pt;
+}
+
+#randaam-title {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    height: 60px;
+    max-width: 250px;
+    background: #1c48df;
+    border-radius: 10px;
+    margin: 50px auto;
+    font-size: 20pt;
+}
+
+#Scratch-bird-game-title {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    height: 60px;
+    max-width: 250px;
+    background: #4d00e6;
+    border-radius: 10px;
+    margin: 50px auto;
+    font-size: 20pt;
+}
