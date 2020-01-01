@@ -60,7 +60,7 @@ a:hover {
     font-size: 35pt;
 }
 
-
+/*Subtitles design*/
 #sempruijs-dot-nl-title {
     text-align: center;
     vertical-align: middle;
@@ -156,4 +156,69 @@ a:hover {
     border-radius: 10px;
     margin: 50px auto;
     font-size: 20pt;
+}
+
+#about-sempruijs-dot-nl {
+    background: #202020;
+    max-width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+#about-wosta {
+    background: #202020;
+    max-width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+#about-aMAZEing {
+    background: #202020;
+    max-width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+
+#about-TicTacPro {
+    background: #202020;
+    max-width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+#about-Intro-To-App-Development-with-Swift {
+    background: #202020;
+    max-width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+#about-learn-to-Code-1-2-3 {
+    background: #202020;
+    max-width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+#about-Randaam {
+    background: #202020;
+    max-width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+#about-Scratch-bird-game {
+    background: #202020;
+    max-width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    margin: 0 auto 80px auto;
 }

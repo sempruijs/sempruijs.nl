@@ -3,12 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Websta/websta.html" beforeDir="false" afterPath="$PROJECT_DIR$/Websta/websta.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/art.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/projects-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/home-style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,9 +115,9 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="945" y="346" width="670" height="675" key="run.anything.popup/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577544979097" />
-    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1577541983776">
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1577809887811">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577541983776" />
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577809887811" />
   </component>
 </project>
