@@ -1,3 +1,4 @@
+/*style for divs between section.*/
 section {
     border-bottom: 4px solid #161616;
 }
@@ -7,6 +8,7 @@ section {
 }
 
 
+/*Style for the title*/
 .topText {
     margin: 0;
     padding: 0;
@@ -19,30 +21,27 @@ section {
     height: 100px;
 }
 
-.aboutMeHomeSection {
+/*More text style*/
+.moreText {
+    margin: 20px;
+    padding: 0;
+    text-align: center;
+    font-size: 20pt;
+}
+
+/*About section*/
+section.about {
     height: 480px;
 }
 
-.artHomeSection {
-    background: #55715b;
-    height: 550px;
-}
-
 .homeTextContainer {
-    background: crimson;
+    background: rgb(42,42,42);
     background-image: url("../Images/WhatSemPruijsIs.png");
     background-position: center;
     background-size: 100%;
     width: 500px;
     height: 280px;
     position: center;
-    margin: auto;
-}
-
-.artContainer {
-    display: flex;
-    flex-direction: row;
-    max-width: 1200px;
     margin: auto;
 }
 
@@ -54,32 +53,25 @@ section {
     border-radius: 10px;
 }
 
-.seeMoreArtContainer {
-    background: #6fac7c;
-    width: 200px;
-    height: 40px;
+/*Art section*/
+section.art {
+    background: #55715b;
+    height: 550px;
+}
+
+.squirrel-painting {
+    color: darkorange;
+    background-image: url("../Images/squirrel.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 436px;
+    height: 354px;
+    position: center;
     margin: auto;
-    border-radius: 10px;
-    position: relative;
-    top: -15px;
 }
 
-.learnMoreText {
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    font-size: 20pt;
-}
-
-.seeMoreArtText {
-    margin: 20px;
-    padding: 0;
-    text-align: center;
-    font-size: 20pt;
-
-}
-
-.neonCatPaitingHome {
+.neon-cat-paiting {
     color: darkorange;
     background-image: url("../Images/NeonCat.png");
     background-size: 100%;
@@ -92,20 +84,25 @@ section {
 
 }
 
-.squirrelPaintingHome {
-    color: darkorange;
-    background-image: url("../Images/squirrel.jpg");
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 436px;
-    height: 354px;
-    position: center;
+.artContainer {
+    display: flex;
+    flex-direction: row;
+    max-width: 1200px;
     margin: auto;
 }
 
+.seeMoreArtContainer {
+    background: #6fac7c;
+    width: 200px;
+    height: 40px;
+    margin: auto;
+    border-radius: 10px;
+    position: relative;
+    top: -15px;
+}
+
 /*Projects home section*/
-.ProjectsHomeSection {
+section.projects {
     background: #4294ff;
     height: 650px;
 }
@@ -145,17 +142,9 @@ section {
     top: -65px;
 }
 
-.seeMoreProjectsText {
-    color: #FFFFFF;
-    margin: 20px;
-    padding: 0;
-    text-align: center;
-    font-size: 20pt;
-}
-
 /*The music home section*/
 
-.MusicHomeSection {
+section.music {
     background: #9490bf;
     height: 400px;
 }
@@ -173,30 +162,20 @@ section {
     border-radius: 10px;
 }
 
-.hearMoreMusicText {
-    color: #FFFFFF;
-    margin: 20px;
-    padding: 0;
-    text-align: center;
-    font-size: 20pt;
-}
-
 /*The Websta home section*/
-.webstaHomeSection {
+section.websta {
     background: #33a3ff;
     height: 300px;
 }
 
 .webstaText {
     font-family: 'Russo One', sans-serif;
-    color: #FFFFFF;
     font-size: 75pt;
     text-align: center;
 }
 
 .wostaForTheWebText {
     font-family: 'Russo One', sans-serif;
-    color: #FFFFFF;
     font-size: 25pt;
     text-align: center;
 }
@@ -210,25 +189,10 @@ section {
 }
 
 .playNowText {
-    color: #FFFFFF;
     margin: 20px;
     padding: 5px;
     text-align: center;
     font-size: 30pt;
     font-family: 'Russo One', sans-serif;
 }
-
-
-/*copy Wright section*/
-.copyright {
-    background: #161616 ;
-    color: #6c6c6c;
-    margin: 0;
-    padding: 6px 28px;
-    position: fixed;
-    bottom: 0px;
-    height: 30px;
-    width: 100%;
-}
-
 
