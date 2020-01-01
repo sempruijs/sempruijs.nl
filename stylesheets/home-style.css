@@ -30,7 +30,7 @@ section {
 
 .homeTextContainer {
     background: crimson;
-    background-image: url("images/WhatSemPruijsIs.png");
+    background-image: url("../Images/WhatSemPruijsIs.png");
     background-position: center;
     background-size: 100%;
     width: 500px;
@@ -81,7 +81,7 @@ section {
 
 .neonCatPaitingHome {
     color: darkorange;
-    background-image: url("Images/NeonCat.png");
+    background-image: url("../Images/NeonCat.png");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -94,7 +94,7 @@ section {
 
 .squirrelPaintingHome {
     color: darkorange;
-    background-image: url("Images/squirrel.jpg");
+    background-image: url("../Images/squirrel.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -125,7 +125,7 @@ section {
 
 .wostaScreenShot {
     background: #4294ff;
-    background-image: url("Images/Wosta.jpeg");
+    background-image: url("../Images/Wosta.jpeg");
     background-size: 100%;
     background-repeat: no-repeat;
     border-radius: 10px;
