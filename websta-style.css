@@ -1,0 +1,13 @@
+.WebstaTopSection {
+    background: #2088fb;
+    height: 100px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+    font-size: 60pt;
+}
+
+body {
+    background: #0e2333;
+}
