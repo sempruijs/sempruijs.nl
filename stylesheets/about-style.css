@@ -15,20 +15,12 @@
     text-align: left;
 }
 
-#About {
 
+.text-container {
     border-radius: 20px;
     background: #252525;
     margin: 30px auto;
-    width: 600px;
-    height: 380px;
-}
-
-#History {
-    background: #252525;
-    margin: 30px auto 80px auto;
-    border-radius: 20px;
-    width: 600px;
-    height: 1900px;
+    padding: 5px;
+    max-width: 600px;
 }
 
