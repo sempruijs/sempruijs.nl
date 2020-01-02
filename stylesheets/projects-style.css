@@ -1,5 +1,5 @@
 /*Title under the navigation bar*/
-.projects-title {
+.project-title {
     text-align: center;
     vertical-align: middle;
     line-height: 70px;
@@ -9,6 +9,16 @@
     border-radius: 10px;
     margin: 65px auto 20px auto;
     font-size: 35pt;
+}
+
+#worked-with-title {
+    font-size: 30px;
+    max-width: 450px;
+}
+
+.worked-with-list {
+    text-align: center;
+    font-size: 25pt;
 }
 
 .title {
