@@ -1,5 +1,5 @@
 /*Title under the navigation bar*/
-.title {
+.projects-title {
     text-align: center;
     vertical-align: middle;
     line-height: 70px;
@@ -11,11 +11,31 @@
     font-size: 35pt;
 }
 
+.title {
+    background: #94e51e;
+    border-radius: 10px;
+    font-size: 20pt;
+    height: 60px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 55px;
+    max-width: 250px;
+    margin: 50px auto;
+}
+
 .text {
     font-size: 16pt;
     margin: 12px;
-    padding: 15px 10px 0px 10px;
+    padding: 10px;
     text-align: left;
+}
+
+section.text {
+    background: #202020;
+    max-width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 5px;
 }
 
 .show-on-Github {
@@ -32,165 +52,35 @@
 
 /*Subtitles design*/
 #sempruijs-dot-nl-title {
-    text-align: center;
-    vertical-align: middle;
-    line-height: 55px;
-    height: 60px;
-    max-width: 250px;
     background: #eb053d;
-    border-radius: 10px;
-    margin: 50px auto;
-    font-size: 20pt;
 }
 
 #wosta-title {
-    text-align: center;
-    vertical-align: middle;
-    line-height: 55px;
-    height: 60px;
-    max-width: 250px;
     background: #e4421e;
-    border-radius: 10px;
-    margin: 50px auto;
-    font-size: 20pt;
 }
 
 #aMAZEing-title {
     background: #e49b1e;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 55px;
-    height: 60px;
-    max-width: 250px;
-    border-radius: 10px;
-    margin: 50px auto;
-    font-size: 20pt;
 }
 
-#Tic-tac-Pro-title {
-
-    background: #94e51e;
-    border-radius: 10px;
-    font-size: 20pt;
-    height: 60px;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 55px;
-    max-width: 250px;
-    margin: 50px auto;
-}
-
-#Intro-to-App-Development-with-Swift-title {
-    text-align: center;
-    vertical-align: middle;
-    line-height: 55px;
-    height: 60px;
-    max-width: 250px;
-    background: #2ae57c;
-    border-radius: 10px;
-    margin: 50px auto;
-    font-size: 10pt;
-}
-
-#Learn-to-Code-1-2-3-title {
-    text-align: center;
-    vertical-align: middle;
-    line-height: 55px;
-    height: 60px;
-    max-width: 250px;
-    background: #26bedf;
-    border-radius: 10px;
-    margin: 50px auto;
+#learn-to-Code-1-2-3-title {
     font-size: 15pt;
 }
 
+#Intro-to-App-Development-with-Swift-title {
+    background: #2ae57c;
+    font-size: 10pt;
+}
+
+#learn-to-Code-1-2-3-title {
+    background: #26bedf;
+}
+
 #randaam-title {
-    text-align: center;
-    vertical-align: middle;
-    line-height: 55px;
-    height: 60px;
-    max-width: 250px;
     background: #1c48df;
-    border-radius: 10px;
-    margin: 50px auto;
-    font-size: 20pt;
 }
 
 #Scratch-bird-game-title {
-    text-align: center;
-    vertical-align: middle;
-    line-height: 55px;
-    height: 60px;
-    max-width: 250px;
     background: #4d00e6;
-    border-radius: 10px;
-    margin: 50px auto;
-    font-size: 20pt;
 }
-
-#about-sempruijs-dot-nl {
-    background: #202020;
-    max-width: 500px;
-    height: 500px;
-    border-radius: 10px;
-    margin: auto;
-}
-
-#about-wosta {
-    background: #202020;
-    max-width: 500px;
-    height: 500px;
-    border-radius: 10px;
-    margin: auto;
-}
-
-#about-aMAZEing {
-    background: #202020;
-    max-width: 500px;
-    height: 500px;
-    border-radius: 10px;
-    margin: auto;
-}
-
-
-#about-TicTacPro {
-    background: #202020;
-    max-width: 500px;
-    height: 500px;
-    border-radius: 10px;
-    margin: auto;
-}
-
-#about-Intro-To-App-Development-with-Swift {
-    background: #202020;
-    max-width: 500px;
-    height: 500px;
-    border-radius: 10px;
-    margin: auto;
-}
-
-#about-learn-to-Code-1-2-3 {
-    background: #202020;
-    max-width: 500px;
-    height: 500px;
-    border-radius: 10px;
-    margin: auto;
-}
-
-#about-Randaam {
-    background: #202020;
-    max-width: 500px;
-    height: 880px;
-    border-radius: 10px;
-    margin: auto;
-}
-
-#about-Scratch-bird-game {
-    background: #202020;
-    max-width: 500px;
-    height: 400px;
-    border-radius: 10px;
-    margin: 0 auto 80px auto;
-}
-
 
