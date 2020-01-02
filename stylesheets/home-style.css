@@ -9,7 +9,7 @@ section {
 
 
 /*Style for the title*/
-.topText {
+.top-text {
     margin: 0;
     padding: 0;
     color: #FFFFFF;
@@ -17,12 +17,12 @@ section {
     font-size: 40pt;
 }
 
-.topContainer {
+.top-container {
     height: 100px;
 }
 
 /*More text style*/
-.moreText {
+.more-text {
     margin: 20px;
     padding: 0;
     text-align: center;
@@ -34,7 +34,7 @@ section.about {
     height: 480px;
 }
 
-.homeTextContainer {
+.home-text-container {
     background: rgb(42,42,42);
     background-image: url("../Images/WhatSemPruijsIs.png");
     background-position: center;
@@ -45,7 +45,7 @@ section.about {
     margin: auto;
 }
 
-.learnMoreContainer {
+.learn-more-container {
     background: #f98800;
     width: 200px;
     height: 40px;
@@ -84,14 +84,14 @@ section.art {
 
 }
 
-.artContainer {
+.art-container {
     display: flex;
     flex-direction: row;
     max-width: 1200px;
     margin: auto;
 }
 
-.seeMoreArtContainer {
+.see-more-art-container {
     background: #6fac7c;
     width: 200px;
     height: 40px;
@@ -107,12 +107,12 @@ section.projects {
     height: 650px;
 }
 
-.ProjectsTopContainer {
+.projects-top-container {
     background: #36b1ff;
     height: 100px;
 }
 
-.ProjectsContainer {
+.projects-container {
     background: #4294ff;
     height: 450px;
     padding: 40px;
@@ -120,7 +120,7 @@ section.projects {
 
 }
 
-.wostaScreenShot {
+.wosta-screenshot {
     background: #4294ff;
     background-image: url("../Images/Wosta.jpeg");
     background-size: 100%;
@@ -132,7 +132,7 @@ section.projects {
     position: center;
 }
 
-.seeMoreProjectsContainer {
+.see-more-projects-container {
     background: #2bdfff;
     width: 200px;
     height: 40px;
@@ -149,12 +149,12 @@ section.music {
     height: 400px;
 }
 
-.MusicTopContainer {
+.music-top-container {
     background: #b1ace5;
     height: 100px;
 }
 
-.hearMoreContainer {
+.hear-more-container {
     background: #b9b9b9;
     width: 200px;
     height: 40px;
@@ -168,19 +168,19 @@ section.websta {
     height: 300px;
 }
 
-.webstaText {
+.websta-text {
     font-family: 'Russo One', sans-serif;
     font-size: 75pt;
     text-align: center;
 }
 
-.wostaForTheWebText {
+.wosta-for-the-web-text {
     font-family: 'Russo One', sans-serif;
     font-size: 25pt;
     text-align: center;
 }
 
-.playNowContainer {
+.play-now-container {
     background: #ff734e;
     width: 300px;
     height: 60px;
@@ -188,7 +188,7 @@ section.websta {
     border-radius: 10px;
 }
 
-.playNowText {
+.play-now-text {
     margin: 20px;
     padding: 5px;
     text-align: center;
