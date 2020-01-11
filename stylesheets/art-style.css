@@ -1,0 +1,24 @@
+header {
+    background: #254d51;
+    margin: 40px auto ;
+    padding: 10px;
+    max-width: 200px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 40pt;
+}
+
+.image {
+    width: auto;
+    height: 100%;
+    margin: 20px;
+}
+
+.horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+

@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Images/2-sides.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Apple_Wallpaper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Disneyland_Castel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Docknightmare-on-speaker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Lonely-tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Stil_Leven-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Stil_Leven-002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Stil_Leven-003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Stil_Leven-005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/The_Door_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheets/art-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/art.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/projects-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/projects-style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +45,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/pages" />
       <recent name="$PROJECT_DIR$/stylesheets" />
+      <recent name="$PROJECT_DIR$/pages" />
     </key>
   </component>
   <component name="RunManager">
@@ -79,6 +90,7 @@
       <workItem from="1577536728685" duration="4469000" />
       <workItem from="1577541931661" duration="4000" />
       <workItem from="1577541974814" duration="18361000" />
+      <workItem from="1578733585792" duration="5998000" />
     </task>
     <servers />
   </component>
@@ -100,7 +112,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -119,10 +133,11 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="670" y="449" key="RollbackChangesDialog/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577889866962" />
-    <state x="973" y="564" key="com.intellij.ide.util.TipDialog" timestamp="1577541974696">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state x="639" y="415" key="com.intellij.ide.util.TipDialog" timestamp="1578733589378">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="973" y="564" key="com.intellij.ide.util.TipDialog/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577541974696" />
+    <state x="639" y="415" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578733589378" />
     <state x="148" y="131" width="824" height="810" key="find.popup" timestamp="1577618169608">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
