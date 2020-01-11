@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Images/2-sides.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Apple_Wallpaper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Disneyland_Castel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Docknightmare-on-speaker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Lonely-tree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Stil_Leven-001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Stil_Leven-002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Stil_Leven-003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/Stil_Leven-005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Images/The_Door_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheets/art-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/art.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/art.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/projects-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/projects-style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +78,7 @@
       <workItem from="1577536728685" duration="4469000" />
       <workItem from="1577541931661" duration="4000" />
       <workItem from="1577541974814" duration="18361000" />
-      <workItem from="1578733585792" duration="5998000" />
+      <workItem from="1578733585792" duration="6765000" />
     </task>
     <servers />
   </component>
@@ -125,10 +113,11 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="598" y="541" width="511" height="899" key="#com.intellij.fileTypes.FileTypeChooser/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577544410806" />
-    <state x="591" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577650935940">
-      <screen x="0" y="23" width="2560" height="1417" />
+    <state x="388" y="358" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578744262944">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="591" y="485" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1280.912.1280.777/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1577650935940" />
+    <state x="388" y="358" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1578744262944" />
     <state x="670" y="449" key="RollbackChangesDialog" timestamp="1577889866962">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
