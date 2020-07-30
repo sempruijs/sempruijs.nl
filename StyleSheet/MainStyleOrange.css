@@ -1,13 +1,17 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: #506a5d;
-    color: #a9ad7e;
+    background-color: #674343;
+    color: #cbc2a0;
     font-family: 'Cairo', sans-serif;
 }
 
 header {
-    background-color: #4a5956;
+    background-color: #8f4d48;
     text-align: center;
     font-size: 50px;
+}
+
+.Introduction {
+    background-color: #b05b5d;
 }
