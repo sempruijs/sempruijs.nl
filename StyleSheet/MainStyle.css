@@ -1,4 +1,12 @@
 body {
-    background-color: #4a5956;
+    padding: 0;
+    margin: 0;
+    background-color: #506a5d;
     color: #a9ad7e;
+}
+
+header {
+    background-color: #4a5956;
+    text-align: center;
+    font-size: 50px;
 }
