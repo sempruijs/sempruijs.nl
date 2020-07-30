@@ -13,4 +13,5 @@ header {
     padding: 10px;
     margin: 30px auto;
     max-width: 500px;
+    border-radius: 5px;
 }
