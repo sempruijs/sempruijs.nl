@@ -1,7 +1,7 @@
 var StyleSheets = [
-    "StyleSheet/MainStyleGreen.css",
-    "StyleSheet/MainStylePurple.css",
-    "StyleSheet/MainStyleOrange.css"
+    "StyleSheet/Green.css",
+    "StyleSheet/Purple.css",
+    "StyleSheet/Orange.css"
 ];
 
 var randomItem = StyleSheets[Math.floor(Math.random()*StyleSheets.length)];
