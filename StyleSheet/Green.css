@@ -10,3 +10,11 @@ header {
 .Section {
     background-color: #64815d;
 }
+
+a {
+    color: #d8dda2;
+}
+
+.button {
+    background-color: #86946b;
+}
