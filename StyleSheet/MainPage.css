@@ -9,7 +9,7 @@ header {
     font-size: 50px;
 }
 
-.Section {
+.Section, .button {
     padding: 15px;
     margin: 5px auto;
     max-width: 500px;
@@ -24,11 +24,6 @@ header {
 }
 
 .button {
-    max-width: 500px;
-    margin: 5px auto;
-    border-radius: 5px;
-    font-size: 18px;
-    padding: 15px;
     text-align: center;
 }
 
