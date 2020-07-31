@@ -7,6 +7,12 @@ body {
 header {
     text-align: center;
     font-size: 50px;
+    padding: 0;
+    margin: 0;
+}
+
+.SectionContainer {
+    padding: 0 16px;
 }
 
 .Section, .button {
