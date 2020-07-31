@@ -1,3 +1,11 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
 body {
     padding: 0;
     margin: 0;
@@ -13,24 +21,29 @@ header {
 
 .SectionContainer {
     padding: 0 16px;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
-.Section, .button {
-    padding: 15px;
-    margin: 5px auto;
-    max-width: 800px;
-    border-radius: 5px;
+section {
     font-size: 18px;
 }
 
-.TitleForSection {
+.section__content, .section__button {
+    display: block;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.section__title {
     font-size: 35px;
     text-align: center;
     margin-top: 30px;
 }
 
-.button {
+.section__button {
     text-align: center;
+    margin-top: 5px;
 }
 
 a {

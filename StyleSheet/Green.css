@@ -7,7 +7,7 @@ header {
     background-color: #4a5956;
 }
 
-.Section {
+.section__content {
     background-color: #64815d;
 }
 
@@ -15,6 +15,6 @@ a {
     color: #d8dda2;
 }
 
-.button {
+.section__button {
     background-color: #86946b;
 }
