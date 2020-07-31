@@ -25,6 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +99,8 @@
       <workItem from="1596124489463" duration="98000" />
       <workItem from="1596124724269" duration="1838000" />
       <workItem from="1596126861041" duration="12205000" />
-      <workItem from="1596143819841" duration="6907000" />
+      <workItem from="1596143819841" duration="7373000" />
+      <workItem from="1596226965404" duration="997000" />
     </task>
     <servers />
   </component>
@@ -132,6 +134,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Move index.html one directory above" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1001" y="739" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596226891923">
+      <screen x="-1440" y="-338" width="1440" height="2537" />
+    </state>
+    <state x="-1001" y="739" key="#com.intellij.fileTypes.FileTypeChooser/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596226891923" />
     <state x="-1211" y="569" key="SettingsEditor" timestamp="1596124772096">
       <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
