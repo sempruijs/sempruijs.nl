@@ -13,14 +13,16 @@ function makeAjaxCall(methodType, url, callback) {
 
 function renderSectionData(jsonString) {
     var sectionData = JSON.parse(jsonString);
-
     
     let sectionContainer = document.getElementById("SectionContainer"); 
-    // document.getElementById("SectionContainer").appendChild(sectionDiv);
 
     sectionData.sections.forEach(section => {
+        //Create container for content
         let sectionDiv = document.createElement("Section");
+        
+        //Spawns container
         sectionContainer.appendChild(sectionDiv);
+        
         //Create element
         let title = document.createElement("div");
         let content = document.createElement("div");
