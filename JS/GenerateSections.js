@@ -12,10 +12,16 @@ function makeAjaxCall(methodType, url, callback) {
 }
 
 function renderSectionData(jsonString) {
-    let json = JSON.parse(jsonString)
-    
-    json.sections.forEach(section => {
-        console.log("section" + JSON.stringify(section))
+    var sectionData = JSON.parse(jsonString);
+
+    let sectionContainer = document.createElement("Section");
+    document.getElementById("SectionContainer").appendChild(sectionContainer);
+
+    sectionData.sections.forEach(section => {
+        let section__content = document.createElement("div");
+        section__content.className = "section__content"
+        section__content.innerHTML = section.Content;
+        sectionContainer.appendChild(section__content);
     })
 }
 
