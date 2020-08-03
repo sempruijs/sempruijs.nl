@@ -18,10 +18,21 @@ function renderSectionData(jsonString) {
     document.getElementById("SectionContainer").appendChild(sectionContainer);
 
     sectionData.sections.forEach(section => {
-        let section__content = document.createElement("div");
-        section__content.className = "section__content"
-        section__content.innerHTML = section.Content;
-        sectionContainer.appendChild(section__content);
+        //Create element
+        let title = document.createElement("div");
+        let content = document.createElement("div");
+        
+        //Set class
+        title.className = "section__title"
+        content.className = "section__content"
+        
+        //Set text
+        title.innerHTML = section.Title;
+        content.innerHTML = section.Content;
+        
+        //Spawn element
+        sectionContainer.appendChild(title);
+        sectionContainer.appendChild(content);
     })
 }
 
