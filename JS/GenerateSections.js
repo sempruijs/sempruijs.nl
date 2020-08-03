@@ -14,25 +14,28 @@ function makeAjaxCall(methodType, url, callback) {
 function renderSectionData(jsonString) {
     var sectionData = JSON.parse(jsonString);
 
-    let sectionContainer = document.createElement("Section");
-    document.getElementById("SectionContainer").appendChild(sectionContainer);
+    
+    let sectionContainer = document.getElementById("SectionContainer"); 
+    // document.getElementById("SectionContainer").appendChild(sectionDiv);
 
     sectionData.sections.forEach(section => {
+        let sectionDiv = document.createElement("Section");
+        sectionContainer.appendChild(sectionDiv);
         //Create element
         let title = document.createElement("div");
         let content = document.createElement("div");
         
         //Set class
-        title.className = "section__title"
-        content.className = "section__content"
+        title.className = "section__title";
+        content.className = "section__content";
         
         //Set text
         title.innerHTML = section.Title;
         content.innerHTML = section.Content;
         
         //Spawn element
-        sectionContainer.appendChild(title);
-        sectionContainer.appendChild(content);
+        sectionDiv.appendChild(title);
+        sectionDiv.appendChild(content);
     })
 }
 
