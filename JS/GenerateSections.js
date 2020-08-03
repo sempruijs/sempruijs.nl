@@ -1,15 +1,22 @@
-// const sectionData = "../Data/SectionData.json"
-const sectionData = "https://github.com/SemPruijs/sempruijs.nl/blob/LoadFromJSON/Data/SectionData.json"
+const sectionDataUrl = "./Data/SectionData.json"
 
-function GeneratePage() {
-    const response = fetch(sectionData);
-    // const data = response.json();
-    const {Title, content} = response;
-    console.log(Title);
-    console.log(content);
+function makeAjaxCall(methodType, url, callback) {
+    let xhr = new XMLHttpRequest();
+    xhr.open(methodType, url, true);
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            callback(xhr.response);
+        }
+    }
+    xhr.send();
 }
 
-GeneratePage();
+function renderSectionData(jsonString) {
+    let json = JSON.parse(jsonString)
+    
+    json.sections.forEach(section => {
+        console.log("section" + JSON.stringify(section))
+    })
+}
 
-// window.onload = function () {
-// }
+makeAjaxCall("GET", sectionDataUrl, renderSectionData);
