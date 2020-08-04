@@ -16,7 +16,7 @@
       "Title": "Projects",
       "Content": [
         {
-          "contentText": "You will be able to see all my projects here in the future. I am currently working on Flyght. Which is a local multiplayer fly fight game designed for tablets. It will be added someday. You can always visit my GitHub to see some of my projects if you cannot wait."
+            "contentText": "I have made some projects over the years. You can see my program skills improve over time. My code is not perfect and I am 15 years old and have much to learning and I am improving day by day."
         }
       ],
       "ButtonClass": "section__button",
@@ -63,6 +63,7 @@
       "ButtonHref": "",
       "ButtonContent": ""
     },
+    
     {
       "Title": "Contact",
       "Content": [
