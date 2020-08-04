@@ -24,8 +24,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Make makeAjaxCall and renderScetionData function">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS/GenerateSections.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateSections.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
