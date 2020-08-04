@@ -23,6 +23,24 @@
       "ButtonHref": "https://github.com/sempruijs",
       "ButtonContent": "github.com/sempruijs"
     },
+    
+    {
+      "Title": "Currently working on",
+      "Content": [
+        {
+          "contentText": "Flyght, a local multiplayer Fly fight game designed for tablets."
+        },
+        {
+          "contentText": "Relaxed Legs, a trash mobile game with ads. This is a test if I can make a trash mobile game in a short periode of time."
+        },
+        {
+          "contentText": "sempruijs.nl, this website. still in progress."
+        }
+      ],
+      "ButtonClass": "",
+      "ButtonHref": "",
+      "ButtonContent": ""
+    },
 
     {
       "Title": "Games",
