@@ -1,0 +1,13 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: darkslategrey;
+    font-family: 'Cairo', sans-serif;
+}
+
+header {
+    text-align: center;
+    font-size: 50px;
+    background-color: #416d6d;
+    color: #70baba;
+}
