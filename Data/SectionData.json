@@ -2,21 +2,46 @@
   "sections": [
     {
       "Title": "Introduction",
-      "Content": "Hi there! I am Sem Pruijs and I love music, art, science and technology. I like making games, playing around with Arduino's and improving my software engineering skills. I am also interested in aerospace engineering and my dream is to go to mars."
+      "Content": [
+        {
+          "contentText": "Hi there! I am Sem Pruijs and I love music, art, science and technology. I like making games, playing around with Arduino's and improving my software engineering skills. I am also interested in aerospace engineering and my dream is to go to mars."
+        }
+      ]
     },
 
     {
       "Title": "Projects",
-      "Content": "You will be able to see all my projects here in the future. I am currently working on Flyght. Which is a local multiplayer fly fight game designed for tablets. It will be added someday. You can always visit my GitHub to see some of my projects if you cannot wait."
+      "Content": [
+        {
+          "contentText": "You will be able to see all my projects here in the future. I am currently working on Flyght. Which is a local multiplayer fly fight game designed for tablets. It will be added someday. You can always visit my GitHub to see some of my projects if you cannot wait."
+        }
+      ]
     },
 
     {
       "Title": "Games",
-      "Content": "If you want to play a game that I have made. Wosta is an iOS game that I have made in collaboration with my dad. OneHourGameJam is a game jam where you have to make a game in one hour. I participate in this game jam almost every week. So there is always something fresh to play on my account :) Parallel Worlds is a game that I have made in 7 days for the HighPixelGameJam on itch.io."
+      "Content": [
+        {
+          "contentText": "If you want to play a game that I have made."
+        },
+        {
+          "contentText": "<a href=\"https://apps.apple.com/us/app/wosta/id1475454482\">Wosta</a> is an iOS game that I have made in collaboration with my dad."
+        }, 
+        {
+          "contentText": "<a href=\"https://onehourgamejam.com/?page=author&author=qlpcuber\">OneHourGameJam</a> is a game jam where you have to make a game in one hour. I participate in this game jam almost every week. So there is always something fresh to play on my account :)"
+        },
+        {
+          "contentText": "<a href=\"https://sempruijs.itch.io/parallel-worlds\">Parallel Worlds</a> is a game that I have made in 7 days for the HighPixelGameJam on itch.io."
+        }
+      ]
     },
     {
       "Title": "Contact",
-      "Content": "If you want to collaborate with me, a game jam for example. You can send an e-mail to sem@pruijs.nl"
+      "Content": [
+        {
+          "contentText": "If you want to collaborate with me, a game jam for example. You can send an e-mail to sem@pruijs.nl"
+        }
+      ]
     }
   ]
 }

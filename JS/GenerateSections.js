@@ -14,19 +14,25 @@ function renderSectionData(jsonString) {
         
         //Create element
         let title = document.createElement("div");
-        let content = document.createElement("div");
+        let contentContainer = document.createElement("div");
         
         //Set class
         title.className = "section__title";
-        content.className = "section__content";
+        contentContainer.className = "section__content";
         
         //Set text
         title.innerHTML = section.Title;
-        content.innerHTML = section.Content;
+        // content.innerHTML = section.Content;
         
         //Spawn element
         sectionDiv.appendChild(title);
-        sectionDiv.appendChild(content);
+        sectionDiv.appendChild(contentContainer);
+        
+        section.Content.forEach(content => {
+            let contentText = document.createElement("p");
+            contentText.innerHTML = content.contentText;
+            contentContainer.appendChild(contentText);
+        })
     })
 }
 
