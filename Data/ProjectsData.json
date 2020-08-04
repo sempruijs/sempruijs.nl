@@ -1,0 +1,20 @@
+{
+  "Projects": [
+    {
+      "Title": "Wosta",
+      "Content": "Wosta is an...",
+      "Buttons": [
+        {
+          "ButtonClass": "",
+          "ButtonHref": "https://apps.apple.com/us/app/wosta/id1475454482",
+          "ButtonText": "View on the AppStore"    
+        },
+        {
+          "ButtonClass": "",
+          "ButtonHref": "http://github.com/sempruijs/wosta",
+          "ButtonText": "View on github"
+        }
+      ]
+    }
+  ]
+}
