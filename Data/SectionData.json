@@ -20,8 +20,8 @@
         }
       ],
       "ButtonClass": "section__button",
-      "ButtonHref": "https://github.com/sempruijs",
-      "ButtonContent": "github.com/sempruijs"
+      "ButtonHref": "./Pages/projects.html",
+      "ButtonContent": "View projects"
     },
     
     {
