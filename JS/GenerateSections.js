@@ -1,7 +1,7 @@
 const sectionDataUrl = "./Data/SectionData.json"
 
 function renderSectionData(jsonString) {
-    var sectionData = JSON.parse(jsonString);
+    let sectionData = JSON.parse(jsonString);
     
     let sectionContainer = document.getElementById("SectionContainer"); 
 
@@ -22,17 +22,24 @@ function renderSectionData(jsonString) {
         
         //Set text
         title.innerHTML = section.Title;
-        // content.innerHTML = section.Content;
         
         //Spawn element
         sectionDiv.appendChild(title);
         sectionDiv.appendChild(contentContainer);
         
+        //Sets content
         section.Content.forEach(content => {
             let contentText = document.createElement("p");
             contentText.innerHTML = content.contentText;
             contentContainer.appendChild(contentText);
         })
+        
+        //Make button
+        let button = document.createElement("a");
+        button.className = section.ButtonClass;
+        button.href = section.ButtonHref;
+        button.innerHTML = section.ButtonContent;
+        sectionDiv.appendChild(button);
     })
 }
 

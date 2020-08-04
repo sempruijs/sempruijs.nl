@@ -24,7 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="There are now links in the games section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/SectionData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/SectionData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS/GenerateSections.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateSections.js" afterDir="false" />
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596474378576</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="There are now links in the games section">
+      <created>1596540785559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596540785559</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +149,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Move index.html one directory above" />
     <MESSAGE value="Make makeAjaxCall and renderScetionData function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make makeAjaxCall and renderScetionData function" />
+    <MESSAGE value="There are now links in the games section" />
+    <option name="LAST_COMMIT_MESSAGE" value="There are now links in the games section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-987" y="703" key="#Node.js_and_NPM" timestamp="1596229651428">
@@ -166,9 +174,10 @@
     </state>
     <state width="500" height="400" key="SwitcherDM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596125359661" />
     <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596474387046">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="-1063" y="255" key="Vcs.Push.Dialog.v2" timestamp="1596540799369">
+      <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
+    <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596540799369" />
     <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596474387046" />
     <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1596492492007">
       <screen x="0" y="23" width="1680" height="1027" />

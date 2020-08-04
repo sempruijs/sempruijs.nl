@@ -6,7 +6,10 @@
         {
           "contentText": "Hi there! I am Sem Pruijs and I love music, art, science and technology. I like making games, playing around with Arduino's and improving my software engineering skills. I am also interested in aerospace engineering and my dream is to go to mars."
         }
-      ]
+      ],
+      "ButtonClass": "",
+      "ButtonHref": "",
+      "ButtonContent": ""
     },
 
     {
@@ -15,7 +18,10 @@
         {
           "contentText": "You will be able to see all my projects here in the future. I am currently working on Flyght. Which is a local multiplayer fly fight game designed for tablets. It will be added someday. You can always visit my GitHub to see some of my projects if you cannot wait."
         }
-      ]
+      ],
+      "ButtonClass": "section__button",
+      "ButtonHref": "https://github.com/sempruijs",
+      "ButtonContent": "github.com/sempruijs"
     },
 
     {
@@ -33,7 +39,11 @@
         {
           "contentText": "<a href=\"https://sempruijs.itch.io/parallel-worlds\">Parallel Worlds</a> is a game that I have made in 7 days for the HighPixelGameJam on itch.io."
         }
-      ]
+      ],
+
+      "ButtonClass": "",
+      "ButtonHref": "",
+      "ButtonContent": ""
     },
     {
       "Title": "Contact",
@@ -41,7 +51,10 @@
         {
           "contentText": "If you want to collaborate with me, a game jam for example. You can send an e-mail to sem@pruijs.nl"
         }
-      ]
+      ],
+      "ButtonClass": "",
+      "ButtonHref": "",
+      "ButtonContent": ""
     }
   ]
 }
