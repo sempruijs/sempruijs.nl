@@ -24,10 +24,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Update projects button˚">
-      <change afterPath="$PROJECT_DIR$/Pages/projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add Projects.css and projects.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/GenerateProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateProjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596567578555</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add Projects.css and projects.html">
+      <created>1596568383883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596568383883</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +182,8 @@
     <MESSAGE value="Add currently working on" />
     <MESSAGE value="Update projects contentText" />
     <MESSAGE value="Update projects button˚" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update projects button˚" />
+    <MESSAGE value="Add Projects.css and projects.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Projects.css and projects.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-987" y="703" key="#Node.js_and_NPM" timestamp="1596229651428">
@@ -190,6 +198,10 @@
       <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
     <state x="-1001" y="739" key="#com.intellij.fileTypes.FileTypeChooser/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596226891923" />
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog" timestamp="1596569051324">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1596569051324" />
     <state x="-1211" y="569" key="SettingsEditor" timestamp="1596124772096">
       <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
@@ -199,11 +211,11 @@
     </state>
     <state width="500" height="400" key="SwitcherDM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596125359661" />
     <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596567591101">
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596568386012">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596540799369" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596567591101" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596568386012" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596567807258">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
