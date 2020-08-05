@@ -12,6 +12,26 @@ header {
     color: #70baba;
 }
 
+#ProjectsContainer {
+    padding: 0 32px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.GitHub {
+    background-color: #252a2f;
+}
+
 .AppStore {
-    background-color: dodgerblue;
+    background-color: #108be5;
 }

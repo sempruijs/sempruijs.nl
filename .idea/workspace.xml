@@ -24,9 +24,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="GenerateProjects.js can now Generate links">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Wosta Project section buttons now have a class name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/GenerateProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateProjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleSheet/MainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/MainPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleSheet/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596638451160</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Wosta Project section buttons now have a class name">
+      <created>1596639062464</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596639062464</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +223,8 @@
     <MESSAGE value="Generate project content" />
     <MESSAGE value="Project section elements are created in a section" />
     <MESSAGE value="GenerateProjects.js can now Generate links" />
-    <option name="LAST_COMMIT_MESSAGE" value="GenerateProjects.js can now Generate links" />
+    <MESSAGE value="Wosta Project section buttons now have a class name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wosta Project section buttons now have a class name" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-987" y="703" key="#Node.js_and_NPM" timestamp="1596229651428">
@@ -242,12 +252,12 @@
     </state>
     <state width="500" height="400" key="SwitcherDM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596125359661" />
     <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="440" y="245" key="Vcs.Push.Dialog.v2" timestamp="1596638452325">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596639064453">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596638452325" />
     <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596540799369" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596625351112" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596639064453" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596567807258">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -256,6 +266,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="538" y="291" width="604" height="490" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596560971272" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1596639974683">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596639974683" />
     <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1596560965822">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

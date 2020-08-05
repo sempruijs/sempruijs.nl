@@ -29,6 +29,7 @@ function renderProjectData(jsonString) {
             TheButton.href = Button.ButtonHref;
             TheButton.innerHTML = Button.ButtonText;
             projectSection.appendChild(TheButton);
+            // projectSection.appendChild(document.createElement("br"));
         })
     })
 }
