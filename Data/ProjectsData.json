@@ -5,12 +5,12 @@
       "Content": "Wosta is an...",
       "Buttons": [
         {
-          "ButtonClass": "",
+          "ButtonClass": "AppStore",
           "ButtonHref": "https://apps.apple.com/us/app/wosta/id1475454482",
-          "ButtonText": "View on the AppStore"    
+          "ButtonText": "View on the App Store"    
         },
         {
-          "ButtonClass": "",
+          "ButtonClass": "GitHub",
           "ButtonHref": "http://github.com/sempruijs/wosta",
           "ButtonText": "View on github"
         }
