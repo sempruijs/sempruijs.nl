@@ -4,19 +4,23 @@ function renderProjectData(jsonString) {
     let projectData = JSON.parse(jsonString);
 
     let projectsContainer = document.getElementById("ProjectsContainer");
-
+    
     projectData.Projects.forEach(Project => {
+        //Make project section
+        let projectSection = document.createElement("section");
+        projectsContainer.appendChild(projectSection);
+        
         //Generate title
         let projectTitle = document.createElement("div");
         projectTitle.className = "projects__title";
         projectTitle.innerHTML = Project.Title;
-        projectsContainer.appendChild(projectTitle);
+        projectSection.appendChild(projectTitle);
         
         //Generate content
         let content = document.createElement("div");
         content.className = "projects__content"
         content.innerHTML = Project.Content;
-        projectsContainer.appendChild(content);
+        projectSection.appendChild(content);
     })
 }
 
