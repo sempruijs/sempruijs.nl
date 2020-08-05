@@ -24,7 +24,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Generate project content">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Project section elements are created in a section">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS/GenerateProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateProjects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -158,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596625705364</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Project section elements are created in a section">
+      <created>1596626162857</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596626162857</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +205,8 @@
     <MESSAGE value="Add Projects.css and projects.html" />
     <MESSAGE value="Fix the cannot find makeAjaxCall function" />
     <MESSAGE value="Generate project content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generate project content" />
+    <MESSAGE value="Project section elements are created in a section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project section elements are created in a section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-987" y="703" key="#Node.js_and_NPM" timestamp="1596229651428">
@@ -225,10 +234,10 @@
     </state>
     <state width="500" height="400" key="SwitcherDM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596125359661" />
     <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="440" y="245" key="Vcs.Push.Dialog.v2" timestamp="1596625707219">
+    <state x="440" y="245" key="Vcs.Push.Dialog.v2" timestamp="1596626164429">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596625707219" />
+    <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596626164429" />
     <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596540799369" />
     <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596625351112" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596567807258">

@@ -21,6 +21,15 @@ function renderProjectData(jsonString) {
         content.className = "projects__content"
         content.innerHTML = Project.Content;
         projectSection.appendChild(content);
+        
+        //Generate buttons
+        Project.Buttons.forEach(Button => {
+            let TheButton = document.createElement("a");
+            TheButton.className = Button.ButtonClass;
+            TheButton.href = Button.ButtonHref;
+            TheButton.innerHTML = Button.ButtonText;
+            projectSection.appendChild(TheButton);
+        })
     })
 }
 
