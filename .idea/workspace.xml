@@ -26,8 +26,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Wosta Project section buttons now have a class name">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS/GenerateProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateProjects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleSheet/MainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/MainPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleSheet/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +104,7 @@
       <workItem from="1596143819841" duration="7373000" />
       <workItem from="1596226965404" duration="2860000" />
       <workItem from="1596403505014" duration="7909000" />
+      <workItem from="1596663243243" duration="487000" />
     </task>
     <task id="LOCAL-00001" summary="Make makeAjaxCall and renderScetionData function">
       <created>1596474378576</created>
@@ -231,9 +232,10 @@
       <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
     <state x="-987" y="703" key="#Node.js_and_NPM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596229651428" />
-    <state x="440" y="184" key="#Plugins" timestamp="1596483716385">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="-1063" y="60" key="#Plugins" timestamp="1596663383652">
+      <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
+    <state x="-1063" y="60" key="#Plugins/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596663383652" />
     <state x="440" y="184" key="#Plugins/0.23.1680.1027@0.23.1680.1027" timestamp="1596483716385" />
     <state x="-1001" y="739" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596226891923">
       <screen x="-1440" y="-338" width="1440" height="2537" />
@@ -270,9 +272,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="505" y="248" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596639974683" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1596560965822">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="-1007" y="223" width="670" height="1670" key="search.everywhere.popup" timestamp="1596663361745">
+      <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
+    <state x="-1007" y="223" width="670" height="1670" key="search.everywhere.popup/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596663361745" />
     <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596560965822" />
   </component>
 </project>

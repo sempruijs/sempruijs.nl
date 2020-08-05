@@ -1,15 +1,16 @@
 body {
     padding: 0;
     margin: 0;
-    background: darkslategrey;
+    background: #6a585b;
     font-family: 'Cairo', sans-serif;
+    color: #d2c9a5;
 }
 
 header {
     text-align: center;
     font-size: 50px;
-    background-color: #416d6d;
-    color: #70baba;
+    background-color: #674343;
+    /*color: #70baba;*/
 }
 
 #ProjectsContainer {
@@ -26,6 +27,19 @@ a {
     padding: 15px;
     border-radius: 5px;
     margin-top: 10px;
+}
+
+.projects__title {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.projects__content {
+    background-color: #807572;
+    display: block;
+    padding: 15px;
+    border-radius: 5px;
 }
 
 .GitHub {
