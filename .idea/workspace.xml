@@ -24,7 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add content to the Sem Service section">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add content to the Fast Game section">
       <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +101,7 @@
       <workItem from="1596143819841" duration="7373000" />
       <workItem from="1596226965404" duration="2860000" />
       <workItem from="1596403505014" duration="7909000" />
-      <workItem from="1596663243243" duration="11549000" />
+      <workItem from="1596663243243" duration="11909000" />
     </task>
     <task id="LOCAL-00001" summary="Make makeAjaxCall and renderScetionData function">
       <created>1596474378576</created>
@@ -257,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596725382665</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add content to the Fast Game section">
+      <created>1596725959828</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1596725959828</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +317,8 @@
     <MESSAGE value="Fil in content Mini Parkour section" />
     <MESSAGE value="Fil in content Taptic Engine Test section" />
     <MESSAGE value="Add content to the Sem Service section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add content to the Sem Service section" />
+    <MESSAGE value="Add content to the Fast Game section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add content to the Fast Game section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-987" y="703" key="#Node.js_and_NPM" timestamp="1596229651428">
@@ -339,12 +347,12 @@
     </state>
     <state width="500" height="400" key="SwitcherDM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596125359661" />
     <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596725383684">
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596725960686">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596638452325" />
     <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596712631217" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596725383684" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596725960686" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596567807258">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
