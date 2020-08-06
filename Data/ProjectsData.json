@@ -155,6 +155,11 @@
           "ButtonClass": "GitHub",
           "ButtonHref": "http://github.com/sempruijs/randaam",
           "ButtonText": "View on github"
+        },
+        {
+          "ButtonClass": "AppStore",
+          "ButtonHref": "https://apps.apple.com/us/app/randaam/id1347697172",
+          "ButtonText": "View on the App Store"
         }
       ]
     },
