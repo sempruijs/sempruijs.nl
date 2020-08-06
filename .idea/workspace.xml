@@ -24,11 +24,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add currently working on">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleSheet/Green.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Green.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleSheet/MainPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/MainPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add copyright in projects.html">
+      <change beforePath="$PROJECT_DIR$/StyleSheet/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="LoadFromJSON" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -104,6 +101,7 @@
       <workItem from="1596143819841" duration="7373000" />
       <workItem from="1596226965404" duration="2860000" />
       <workItem from="1596403505014" duration="7909000" />
+      <workItem from="1596663243243" duration="14683000" />
     </task>
     <task id="LOCAL-00001" summary="Make makeAjaxCall and renderScetionData function">
       <created>1596474378576</created>
@@ -126,7 +124,196 @@
       <option name="project" value="LOCAL" />
       <updated>1596551347183</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update projects contentText">
+      <created>1596566927299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596566927300</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update projects button˚">
+      <created>1596567578555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596567578555</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Projects.css and projects.html">
+      <created>1596568383883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596568383883</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix the cannot find makeAjaxCall function">
+      <created>1596625347451</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596625347451</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Generate project content">
+      <created>1596625705364</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596625705364</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Project section elements are created in a section">
+      <created>1596626162857</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596626162857</updated>
+    </task>
+    <task id="LOCAL-00010" summary="GenerateProjects.js can now Generate links">
+      <created>1596638451160</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596638451160</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Wosta Project section buttons now have a class name">
+      <created>1596639062464</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596639062464</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update Projects.css">
+      <created>1596663902843</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596663902843</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Change View on the App Store color">
+      <created>1596709324509</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1596709324509</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add project sections in the ProjectsData.json without content">
+      <created>1596711165366</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1596711165366</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Set sections in the right order">
+      <created>1596712625864</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1596712625864</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fil in content for Scratch game">
+      <created>1596719175118</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596719175118</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fil content for the randaam, learn to code 1, 2 and 3, Intro to App Development with Swift and Tic Tac Pro sections">
+      <created>1596721347350</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1596721347350</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fil content for aMAZEing">
+      <created>1596721890373</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1596721890373</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fil content in the Wosta section">
+      <created>1596722715503</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1596722715503</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fil in content Mini Parkour section">
+      <created>1596723226675</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1596723226675</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Fil in content Taptic Engine Test section">
+      <created>1596723460350</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1596723460350</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add content to the Sem Service section">
+      <created>1596725382665</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1596725382665</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add content to the Fast Game section">
+      <created>1596725959828</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1596725959828</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add content to the OneHourGameJam section">
+      <created>1596726296038</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1596726296038</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fil in content in the sempruijs.nl section">
+      <created>1596726846879</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1596726846879</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Remove spell mistake in the sempruijs section">
+      <created>1596726882881</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1596726882881</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Remove spell mistakes and the view app on the Appstore button is now below the view on github button in the Wosta section">
+      <created>1596727247834</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1596727247834</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Remove spell mistake in SectionData.json">
+      <created>1596728524044</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1596728524044</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Remove games section in SectionData.json">
+      <created>1596728677821</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1596728677821</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add copyright in projects.html">
+      <created>1596729722497</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1596729722498</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,25 +343,51 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Move index.html one directory above" />
-    <MESSAGE value="Make makeAjaxCall and renderScetionData function" />
-    <MESSAGE value="There are now links in the games section" />
-    <MESSAGE value="Add currently working on" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add currently working on" />
+    <MESSAGE value="Add Projects.css and projects.html" />
+    <MESSAGE value="Fix the cannot find makeAjaxCall function" />
+    <MESSAGE value="Generate project content" />
+    <MESSAGE value="Project section elements are created in a section" />
+    <MESSAGE value="GenerateProjects.js can now Generate links" />
+    <MESSAGE value="Wosta Project section buttons now have a class name" />
+    <MESSAGE value="Update Projects.css" />
+    <MESSAGE value="Change View on the App Store color" />
+    <MESSAGE value="Add project sections in the ProjectsData.json without content" />
+    <MESSAGE value="Set sections in the right order" />
+    <MESSAGE value="Fil in content for Scratch game" />
+    <MESSAGE value="Fil content for the randaam, learn to code 1, 2 and 3, Intro to App Development with Swift and Tic Tac Pro sections" />
+    <MESSAGE value="Fil content for aMAZEing" />
+    <MESSAGE value="Fil content in the Wosta section" />
+    <MESSAGE value="Fil in content Mini Parkour section" />
+    <MESSAGE value="Fil in content Taptic Engine Test section" />
+    <MESSAGE value="Add content to the Sem Service section" />
+    <MESSAGE value="Add content to the Fast Game section" />
+    <MESSAGE value="Add content to the OneHourGameJam section" />
+    <MESSAGE value="Fil in content in the sempruijs.nl section" />
+    <MESSAGE value="Remove spell mistake in the sempruijs section" />
+    <MESSAGE value="Remove spell mistakes and the view app on the Appstore button is now below the view on github button in the Wosta section" />
+    <MESSAGE value="Remove spell mistake in SectionData.json" />
+    <MESSAGE value="Remove games section in SectionData.json" />
+    <MESSAGE value="Add copyright in projects.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add copyright in projects.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-987" y="703" key="#Node.js_and_NPM" timestamp="1596229651428">
       <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
     <state x="-987" y="703" key="#Node.js_and_NPM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596229651428" />
-    <state x="440" y="184" key="#Plugins" timestamp="1596483716385">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="-1063" y="60" key="#Plugins" timestamp="1596663383652">
+      <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
+    <state x="-1063" y="60" key="#Plugins/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596663383652" />
     <state x="440" y="184" key="#Plugins/0.23.1680.1027@0.23.1680.1027" timestamp="1596483716385" />
     <state x="-1001" y="739" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596226891923">
       <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
     <state x="-1001" y="739" key="#com.intellij.fileTypes.FileTypeChooser/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596226891923" />
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog" timestamp="1596569051324">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1596569051324" />
     <state x="-1211" y="569" key="SettingsEditor" timestamp="1596124772096">
       <screen x="-1440" y="-338" width="1440" height="2537" />
     </state>
@@ -184,14 +397,28 @@
     </state>
     <state width="500" height="400" key="SwitcherDM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596125359661" />
     <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596551363347">
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596729724139">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596540799369" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596551363347" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1596492492007">
+    <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596638452325" />
+    <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596712631217" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596729724139" />
+    <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596567807258">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596492492007" />
+    <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596567807258" />
+    <state x="538" y="291" width="604" height="490" key="find.popup" timestamp="1596560971272">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="538" y="291" width="604" height="490" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596560971272" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1596639974683">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596639974683" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1596728432069">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="-1007" y="223" width="670" height="1670" key="search.everywhere.popup/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596663361745" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596728432069" />
   </component>
 </project>

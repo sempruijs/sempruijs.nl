@@ -1,0 +1,55 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #6a585b;
+    font-family: 'Cairo', sans-serif;
+    color: #d2c9a5;
+}
+
+header {
+    text-align: center;
+    font-size: 50px;
+    background-color: #674343;
+}
+
+footer{
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+#ProjectsContainer {
+    padding: 0 32px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: #efefef;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.projects__title {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.projects__content {
+    background-color: #807572;
+    display: block;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.GitHub {
+    background-color: #252a2f;
+}
+
+.AppStore {
+    background-color: #a58b66;
+}
