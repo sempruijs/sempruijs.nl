@@ -24,9 +24,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Refactor GenerateProjects.js and GenerateSections.js">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add view on the app store button in the Randaam section">
+      <change afterPath="$PROJECT_DIR$/Images/Icon/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Icon/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Icon/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/Icon/72.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +69,11 @@
       <recent name="$PROJECT_DIR$/pages" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="index.html" />
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/sempruijs.nl/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -102,7 +111,7 @@
       <workItem from="1596143819841" duration="7373000" />
       <workItem from="1596226965404" duration="2860000" />
       <workItem from="1596403505014" duration="7909000" />
-      <workItem from="1596663243243" duration="18089000" />
+      <workItem from="1596663243243" duration="19577000" />
     </task>
     <task id="LOCAL-00001" summary="Make makeAjaxCall and renderScetionData function">
       <created>1596474378576</created>
@@ -349,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596737827162</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Add view on the app store button in the Randaam section">
+      <created>1596740160310</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1596740160310</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +395,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Wosta Project section buttons now have a class name" />
     <MESSAGE value="Update Projects.css" />
     <MESSAGE value="Change View on the App Store color" />
     <MESSAGE value="Add project sections in the ProjectsData.json without content" />
@@ -404,7 +419,8 @@
     <MESSAGE value="Change header to head in projects.html" />
     <MESSAGE value="Refactor GenerateProjects.js" />
     <MESSAGE value="Refactor GenerateProjects.js and GenerateSections.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor GenerateProjects.js and GenerateSections.js" />
+    <MESSAGE value="Add view on the app store button in the Randaam section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add view on the app store button in the Randaam section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-987" y="703" key="#Node.js_and_NPM" timestamp="1596229651428">
@@ -433,12 +449,12 @@
     </state>
     <state width="500" height="400" key="SwitcherDM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596125359661" />
     <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596737828375">
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596740162013">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596638452325" />
     <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596712631217" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596737828375" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596740162013" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596567807258">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -447,10 +463,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="538" y="291" width="604" height="490" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596560971272" />
-    <state x="505" y="248" key="run.anything.popup" timestamp="1596639974683">
+    <state x="505" y="248" width="670" height="675" key="run.anything.popup" timestamp="1596740242210">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="505" y="248" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596639974683" />
+    <state x="505" y="248" width="670" height="675" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596740242210" />
     <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1596728432069">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
