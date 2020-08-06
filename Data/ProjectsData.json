@@ -97,14 +97,14 @@
       "Content": "Wosta is a game made with Unity and C# and the rules are simple: Eat fish that are smaller then you. Avoid fish that are bigger then you. When you eat a small fish, you grow. Become big. I made this game in collaboration with my dad. I learned allot with this project because of my dad. He showed me how to avoid spaghetti code and write code that is easy to understand. We worked with unity collab and after he stopped paying for that, I put the project on GitHub. I also made some updates to the application. A made a christmas update and a sticker pack for iMessages and a update where you can where hats. I did those updates on my own. I really enjoyed working on this project.",
       "Buttons": [
         {
-          "ButtonClass": "AppStore",
-          "ButtonHref": "https://apps.apple.com/us/app/wosta/id1475454482",
-          "ButtonText": "View on the App Store"
-        },
-        {
           "ButtonClass": "GitHub",
           "ButtonHref": "http://github.com/sempruijs/wosta",
           "ButtonText": "View on github"
+        },
+        {
+          "ButtonClass": "AppStore",
+          "ButtonHref": "https://apps.apple.com/us/app/wosta/id1475454482",
+          "ButtonText": "View on the App Store"
         }
       ]
     },
@@ -135,14 +135,14 @@
     
     {
       "Title": "Intro to App Development with Swift",
-      "Content": "Now that I knew how to program, it was time to learn how you should build an app with Xcode. This was a great book. After a few chapters I was working with Xcode and making simple apps. I completed the book and I had the knowledge on how to build an app.",
+      "Content": "Now that I knew how to program, it was time to learn how I should build an app with Xcode. This was a great book. After a few chapters I was working with Xcode and making simple apps. I completed the book and I had the knowledge on how to build an app.",
       "Buttons": [
       ]
     },
     
     {
       "Title": "Learn to code 1, 2, 3",
-      "Content": "Learn to code 1, 2 and 3 are three programming courses on swift playground on the Ipad. After randaam I thought that I need to know more on how to program. That was a great decision. I really loved the courses and I would recommend it to anyone who wants to know how to program.",
+      "Content": "Learn to code 1, 2 and 3 are three programming courses on swift playground on the iPad. After Randaam I thought that I need to know more on how to program. That was a great decision. I really loved the courses and I would recommend it to anyone who wants to know how to program.",
       "Buttons": [
       ]
     },

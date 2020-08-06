@@ -24,7 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add content to the OneHourGameJam section">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Remove spell mistake in the sempruijs section">
       <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +101,7 @@
       <workItem from="1596143819841" duration="7373000" />
       <workItem from="1596226965404" duration="2860000" />
       <workItem from="1596403505014" duration="7909000" />
-      <workItem from="1596663243243" duration="12353000" />
+      <workItem from="1596663243243" duration="12667000" />
     </task>
     <task id="LOCAL-00001" summary="Make makeAjaxCall and renderScetionData function">
       <created>1596474378576</created>
@@ -271,7 +271,21 @@
       <option name="project" value="LOCAL" />
       <updated>1596726296038</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Fil in content in the sempruijs.nl section">
+      <created>1596726846879</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1596726846879</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Remove spell mistake in the sempruijs section">
+      <created>1596726882881</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1596726882881</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,8 +315,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Move index.html one directory above" />
-    <MESSAGE value="Make makeAjaxCall and renderScetionData function" />
     <MESSAGE value="There are now links in the games section" />
     <MESSAGE value="Add currently working on" />
     <MESSAGE value="Update projects contentText" />
@@ -326,7 +338,9 @@
     <MESSAGE value="Add content to the Sem Service section" />
     <MESSAGE value="Add content to the Fast Game section" />
     <MESSAGE value="Add content to the OneHourGameJam section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add content to the OneHourGameJam section" />
+    <MESSAGE value="Fil in content in the sempruijs.nl section" />
+    <MESSAGE value="Remove spell mistake in the sempruijs section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove spell mistake in the sempruijs section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-987" y="703" key="#Node.js_and_NPM" timestamp="1596229651428">
@@ -355,12 +369,12 @@
     </state>
     <state width="500" height="400" key="SwitcherDM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596125359661" />
     <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596726297182">
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596726884192">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596638452325" />
     <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596712631217" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596726297182" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596726884192" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596567807258">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
