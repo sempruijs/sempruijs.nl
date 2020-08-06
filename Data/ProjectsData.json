@@ -33,14 +33,14 @@
 
     {
       "Title": "Sem Service",
-      "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Content": "Sem Service is a candy machine made with an arduino. I want to make something with arduino's and I want to make a little bit of money so this was the perfect project. You can order a candy bar on a website if you're on our internet connection and then you can grab the candy bar out of the machine. My dad made the API from the website to the arduino and I created the machine and I learned with this project allot. How electricity works. How to control the arduino. C++. working with servo's and lots more. I will add in the future photos of the candy machine but I am busy with right now with Flyght.",
       "Buttons": [
       ]
     },
     
     {
       "Title": "Parallel Worlds",
-      "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Content": "Parallel Worlds was a game made for the HighPixel game jam 1. I had one week to make a game and it was fun to make. I learned more about game jams and that it is important to keep te scope small. You can play the game on itch.io",
       "Buttons": [
         {
           "ButtonClass": "AppStore",
@@ -52,7 +52,7 @@
 
     {
       "Title": "Tankee",
-      "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Content": "Tankee was my next big project. I wanted to do something with local multiplayer so I thought: Tank battle! I learned allot from this project but i felt like it was not an amazing idea. So I stopped. I worked hard on it and it was fun to play for some people but was not for others. Controls where hard and you needed 2 controllers. I wanted a game that was more accessible and less violent. (That game is Flyght where I am working on right now.)",
       "Buttons": [
         {
           "ButtonClass": "Github",
