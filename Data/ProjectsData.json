@@ -2,7 +2,7 @@
   "Projects": [
     {
       "Title": "sempruijs.nl",
-      "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Content": "That website. I want to learn more about web technologies so I thought this website would be a great practice. I first tried to make a website with html and css and it was very easy to do that. The problem was that the scope was to big so I did it again but with a much smaller scope. I wanted to learn more about JavaScript so I learned how to load a .json file and creating html elements with information from the json file. I learned a little bit of JavaScript, how json works and I really like the whole process of making a website because you get fast results.",
       "Buttons": [
         {
           "ButtonClass": "GitHub",
