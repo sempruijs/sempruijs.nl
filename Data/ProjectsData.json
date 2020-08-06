@@ -68,7 +68,7 @@
       "Buttons": [
         {
           "ButtonClass": "Github",
-          "ButtonHref": "https://github.com/SemPruijs/tapticenginetest",
+          "ButtonHref": "https://gikthub.com/SemPruijs/tapticenginetest",
           "ButtonText": "View on github"
         }
       ]
@@ -76,13 +76,19 @@
 
     {
       "Title": "Mini Parkour",
-      "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Content": "This is a rage game. I was a bit bored from a big project of mine so I made this project. You can play it on itch.io but please do not break things when you are angry. I learned with this project how to use the animator and how to transition from scene to scene. I really enjoyed seeing people playing that game.",
       "Buttons": [
         {
           "ButtonClass": "GitHub",
           "ButtonHref": "http://github.com/sempruijs/mini-parkour",
           "ButtonText": "View on github"
+        },
+        {
+          "ButtonClass": "AppStore",
+          "ButtonHref": "https://sempruijs.itch.io/booshj",
+          "ButtonText": "View game"
         }
+
       ]
     },
     
