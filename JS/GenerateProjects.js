@@ -10,17 +10,9 @@ function renderProjectData(jsonString) {
         let projectSection = document.createElement("section");
         projectsContainer.appendChild(projectSection);
         
-        //Generate title
-        let projectTitle = document.createElement("div");
-        projectTitle.className = "projects__title";
-        projectTitle.innerHTML = Project.Title;
-        projectSection.appendChild(projectTitle);
-        
-        //Generate content
-        let content = document.createElement("div");
-        content.className = "projects__content"
-        content.innerHTML = Project.Content;
-        projectSection.appendChild(content);
+        //Generate title and content
+        GenerateElement("div", "projects__title", Project.Title, projectSection);
+        GenerateElement("div", "projects__content", Project.Content, projectSection);
         
         //Generate buttons
         Project.Buttons.forEach(Button => {
