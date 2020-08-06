@@ -26,7 +26,7 @@
 
     {
       "Title": "Fast Game",
-      "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Content": "Fast Game is not a game but a unity 2d projects where you can make games fast. This is made for prototyping and for game jam where you are allowed to use pre made assets and scripts. The projects contains scripts that are easy to use and multifunctional. It also contains art assets that I have made for game jams and for the Fast Game project it self. It also has some music and sound effects for that I made for game jams and for the Fast Game project. When a prototype has to be made, I clone the Git repository and make changes to make to prototype. I do not make the repository public because I do not want people to use my music and sprites. Because of this project I do not have to repeat my self constantly when making games.",
       "Buttons": [
       ]
     },
