@@ -34,31 +34,9 @@
           "contentText": "Relaxed Legs, a trash mobile game with ads. This is a test if I can make a trash mobile game in a short periode of time."
         },
         {
-          "contentText": "sempruijs.nl, this website. still in progress."
+          "contentText": "sempruijs.nl, this website. Still in progress."
         }
       ],
-      "ButtonClass": "",
-      "ButtonHref": "",
-      "ButtonContent": ""
-    },
-
-    {
-      "Title": "Games",
-      "Content": [
-        {
-          "contentText": "If you want to play a game that I have made."
-        },
-        {
-          "contentText": "<a href=\"https://apps.apple.com/us/app/wosta/id1475454482\">Wosta</a> is an iOS game that I have made in collaboration with my dad."
-        }, 
-        {
-          "contentText": "<a href=\"https://onehourgamejam.com/?page=author&author=qlpcuber\">OneHourGameJam</a> is a game jam where you have to make a game in one hour. I participate in this game jam almost every week. So there is always something fresh to play on my account :)"
-        },
-        {
-          "contentText": "<a href=\"https://sempruijs.itch.io/parallel-worlds\">Parallel Worlds</a> is a game that I have made in 7 days for the HighPixelGameJam on itch.io."
-        }
-      ],
-
       "ButtonClass": "",
       "ButtonHref": "",
       "ButtonContent": ""
