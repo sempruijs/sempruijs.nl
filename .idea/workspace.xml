@@ -24,10 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Set sections in the right order">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Fil in content for Scratch game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleSheet/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,7 @@
       <workItem from="1596143819841" duration="7373000" />
       <workItem from="1596226965404" duration="2860000" />
       <workItem from="1596403505014" duration="7909000" />
-      <workItem from="1596663243243" duration="5894000" />
+      <workItem from="1596663243243" duration="8005000" />
     </task>
     <task id="LOCAL-00001" summary="Make makeAjaxCall and renderScetionData function">
       <created>1596474378576</created>
@@ -210,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596712625864</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Fil in content for Scratch game">
+      <created>1596719175118</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1596719175118</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +262,8 @@
     <MESSAGE value="Change View on the App Store color" />
     <MESSAGE value="Add project sections in the ProjectsData.json without content" />
     <MESSAGE value="Set sections in the right order" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set sections in the right order" />
+    <MESSAGE value="Fil in content for Scratch game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fil in content for Scratch game" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-987" y="703" key="#Node.js_and_NPM" timestamp="1596229651428">
@@ -285,12 +292,12 @@
     </state>
     <state width="500" height="400" key="SwitcherDM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596125359661" />
     <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="-1063" y="255" key="Vcs.Push.Dialog.v2" timestamp="1596712631217">
-      <screen x="-1440" y="-338" width="1440" height="2537" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1596719176605">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596638452325" />
     <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596712631217" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596639064453" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596719176605" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596567807258">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>

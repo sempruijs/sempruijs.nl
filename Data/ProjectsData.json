@@ -116,7 +116,7 @@
     },
     {
       "Title": "Tic Tac Pro",
-      "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Content": "Tic Tac Pro is Tic Tac Toe but then you could play on a 3x3, a 4x4 bord and a 5x5 board. It was time to apply my knowledge from Learn to code 1, 2 and 3 and Intro to App Development with Swift to make an app! My brother said: A great practice to test you skills is to make Tic Tac Toe. It was a great tip from him and I started making Tic Tac Toe. I want to release the app so it had to have a cool feature. A 4x4 board and a 5x5 board. I spend too much time on this feature and when it was done, I came to a conclusion that it was not fun to play on a 4x4 board and a 5x5 board because who begins wins. :( This was painful to see and I learned something very important: PLAY TEST!, I could've just grabbed a piece of paper and test with a friend if this concept was fun to play. I did learn more about programming and writing elegant code.",
       "Buttons": [
         {
           "ButtonClass": "GitHub",
@@ -127,19 +127,19 @@
     },
     {
       "Title": "Intro to App Development with Swift",
-      "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Content": "Now that I knew how to program, it was time to learn how you should build an app with Xcode. This was a great book. After a few chapters I was working with Xcode and making simple apps. I completed the book and I had the knowledge on how to build an app.",
       "Buttons": [
       ]
     },
     {
       "Title": "Learn to code 1, 2, 3",
-      "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Content": "Learn to code 1, 2 and 3 are three programming courses on swift playground on the Ipad. After randaam I thought that I need to know more on how to program. That was a great decision. I really loved the courses and I would recommend it to anyone who wants to know how to program.",
       "Buttons": [
       ]
     },
     {
       "Title": "Randaam",
-      "Content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Content": "My dream was making an app for the app store. So I installed Xcode. I followed the first few chapters and I thought I knew enough and started making Randaam. Randaam is a dutch random person generator. It was build with Swift and UIkit. The most important skill was how to google. I knew what I was writing and how to write it but progress was going slow. I think that is because I had too little knowledge about UIkit and programming in general. My dad put the app on the app store with his appstore connect account. It was really fun to make it and I learned ALLOT from it. I am happy that my brother forced me to use git and now the project is on github. :) I still want to make the version with swiftUI, but I haven't got the time to do so.",
       "Buttons": [
         {
           "ButtonClass": "GitHub",
