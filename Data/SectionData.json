@@ -11,19 +11,17 @@
       "ButtonHref": "",
       "ButtonContent": ""
     },
-
     {
       "Title": "Projects",
       "Content": [
         {
-            "contentText": "I have made some projects over the years. You can see my program skills improve over time. My code is not perfect and I am 15 years old and I have much to learn and But I am improving day by day."
+          "contentText": "I have made some projects over the years. You can see my program skills improve over time. My code is not perfect and I am 15 years old and I have much to learn and But I am improving day by day."
         }
       ],
       "ButtonClass": "section__button",
       "ButtonHref": "./Pages/projects.html",
       "ButtonContent": "View projects"
     },
-    
     {
       "Title": "Currently working on",
       "Content": [
@@ -41,7 +39,6 @@
       "ButtonHref": "",
       "ButtonContent": ""
     },
-    
     {
       "Title": "Contact",
       "Content": [
