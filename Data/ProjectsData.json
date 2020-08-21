@@ -1,6 +1,23 @@
 {
   "Projects": [
     {
+      "Title": "Relaxed Legs",
+      "Content": "A endless runner that I made on my own. I learned a few things that are important for game development. I worked on it alone from start to finish. I did the appstore connect uploading all on my own and I made my first Apple Tv and my first Mac application and uploaded them on the app store. I really enjoyed seeing my app on the Apple tv because the screen is so much bigger than a phone. I didn't spent to much time on it because it was not a \"new\" concept but I did finish it to the end which felt very rewarding.",
+      "Buttons": [
+        {
+          "ButtonClass": "GitHub",
+          "ButtonHref": "https://github.com/SemPruijs/RelaxedLegs",
+          "ButtonText": "View on github"
+        },
+        {
+          "ButtonClass": "AppStore",
+          "ButtonHref": "https://apps.apple.com/us/app/relaxed-legs/id1525586149",
+          "ButtonText": "View on the App Store"
+        }
+      ]
+    },
+    
+    {
       "Title": "sempruijs.nl",
       "Content": "This website. I want to learn more about web technologies so I thought this website would be a great practice. I first tried to make a website with html and css and it was very easy to do that. The problem was that the scope was to big so I did it again but with a much smaller scope. I wanted to learn more about JavaScript so I learned how to load a .json file and creating html elements with information from the json file. I learned a little bit of JavaScript, how json works and I really like the whole process of making a website because you get fast results.",
       "Buttons": [
