@@ -53,3 +53,8 @@ a {
 .AppStore {
     background-color: #a58b66;
 }
+
+label {
+    display: block;
+    margin: 0 auto;
+}
