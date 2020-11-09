@@ -11,5 +11,4 @@ function GenerateButton(kindElement, classForElement, content, href, appendIn) {
     element.innerHTML = content;
     element.href = href;
     appendIn.appendChild(element);
-
 }

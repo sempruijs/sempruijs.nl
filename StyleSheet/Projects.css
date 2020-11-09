@@ -24,6 +24,7 @@ footer{
 }
 
 a {
+    transition: 0.2s;
     display: block;
     text-decoration: none;
     color: #efefef;
@@ -31,6 +32,11 @@ a {
     padding: 15px;
     border-radius: 5px;
     margin-top: 10px;
+}
+
+a:hover {
+    font-size: 20px;
+    transition: 0.2s;
 }
 
 .projects__title {
