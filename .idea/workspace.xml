@@ -24,7 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add outward animation">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add an input bar and gave it style">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pages/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/projects.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleSheet/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
@@ -122,7 +122,7 @@
       <workItem from="1604308765299" duration="877000" />
       <workItem from="1604400021739" duration="932000" />
       <workItem from="1604911154139" duration="818000" />
-      <workItem from="1605003671293" duration="618000" />
+      <workItem from="1605003671293" duration="882000" />
     </task>
     <task id="LOCAL-00001" summary="Make makeAjaxCall and renderScetionData function">
       <created>1596474378576</created>
@@ -425,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604911401467</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Add an input bar and gave it style">
+      <created>1605004997574</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1605004997574</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +462,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Fil content in the Wosta section" />
     <MESSAGE value="Fil in content Mini Parkour section" />
     <MESSAGE value="Fil in content Taptic Engine Test section" />
     <MESSAGE value="Add content to the Sem Service section" />
@@ -480,7 +486,8 @@
     <MESSAGE value="Update the Currently working on section in the SectionData.json" />
     <MESSAGE value="Remove search bar in Projects.html" />
     <MESSAGE value="Add outward animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add outward animation" />
+    <MESSAGE value="Add an input bar and gave it style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add an input bar and gave it style" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1063" y="60" key="#Plugins" timestamp="1596663383652">
@@ -496,12 +503,12 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1604911404002">
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1605005025325">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596638452325" />
     <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596712631217" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1604911404002" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1605005025325" />
     <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596567807258">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
