@@ -10,7 +10,7 @@ function GenerateProjectData(jsonString) {
     let projectData = JSON.parse(jsonString);
     let projectsContainer = document.getElementById("ProjectsContainer");
     projectData.Projects.forEach(Project => {
-        if (input === Project.Title || input === "") {
+        if (Project.Title.toUpperCase().includes(input.toUpperCase()) || input === "") {
             console.log(input)
             //Make project section
             let projectSection = document.createElement("section");
