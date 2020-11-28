@@ -24,11 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Remove search bar in Projects.html">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Change the seachbar place holder text to &quot;Search for projects.html...&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/GenerateElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateElement.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleSheet/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="SearchForProjects" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -122,7 +120,12 @@
       <workItem from="1598956396080" duration="1870000" />
       <workItem from="1604308765299" duration="877000" />
       <workItem from="1604400021739" duration="932000" />
-      <workItem from="1604911154139" duration="177000" />
+      <workItem from="1604911154139" duration="818000" />
+      <workItem from="1605003671293" duration="2016000" />
+      <workItem from="1605513943585" duration="856000" />
+      <workItem from="1606119324676" duration="4153000" />
+      <workItem from="1606213149409" duration="2049000" />
+      <workItem from="1606562370865" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="Make makeAjaxCall and renderScetionData function">
       <created>1596474378576</created>
@@ -418,7 +421,42 @@
       <option name="project" value="LOCAL" />
       <updated>1604309315959</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Add outward animation">
+      <created>1604911401467</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1604911401467</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Add an input bar and gave it style">
+      <created>1605004997574</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1605004997574</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Add place holder for input field">
+      <created>1605005253722</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1605005253722</updated>
+    </task>
+    <task id="LOCAL-00046" summary="ProjectContainer clears itself when GenerateProjectData function is called">
+      <created>1606214237414</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1606214237414</updated>
+    </task>
+    <task id="LOCAL-00047" summary="You can now search for projects if you type a part of the name">
+      <created>1606562880916</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1606562880916</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,11 +486,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Fil content for aMAZEing" />
-    <MESSAGE value="Fil content in the Wosta section" />
-    <MESSAGE value="Fil in content Mini Parkour section" />
-    <MESSAGE value="Fil in content Taptic Engine Test section" />
-    <MESSAGE value="Add content to the Sem Service section" />
     <MESSAGE value="Add content to the Fast Game section" />
     <MESSAGE value="Add content to the OneHourGameJam section" />
     <MESSAGE value="Fil in content in the sempruijs.nl section" />
@@ -473,57 +506,21 @@
     <MESSAGE value="Add relaxed legs section in the ProjectsData.json" />
     <MESSAGE value="Update the Currently working on section in the SectionData.json" />
     <MESSAGE value="Remove search bar in Projects.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove search bar in Projects.html" />
+    <MESSAGE value="Add outward animation" />
+    <MESSAGE value="Add an input bar and gave it style" />
+    <MESSAGE value="Add place holder for input field" />
+    <MESSAGE value="ProjectContainer clears itself when GenerateProjectData function is called" />
+    <MESSAGE value="You can now search for projects if you type a part of the name" />
+    <option name="LAST_COMMIT_MESSAGE" value="You can now search for projects if you type a part of the name" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-987" y="703" key="#Node.js_and_NPM" timestamp="1596229651428">
-      <screen x="-1440" y="-338" width="1440" height="2537" />
-    </state>
-    <state x="-987" y="703" key="#Node.js_and_NPM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596229651428" />
-    <state x="-1063" y="60" key="#Plugins" timestamp="1596663383652">
-      <screen x="-1440" y="-338" width="1440" height="2537" />
-    </state>
-    <state x="-1063" y="60" key="#Plugins/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596663383652" />
-    <state x="440" y="184" key="#Plugins/0.23.1680.1027@0.23.1680.1027" timestamp="1596483716385" />
-    <state x="-1001" y="739" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596226891923">
-      <screen x="-1440" y="-338" width="1440" height="2537" />
-    </state>
-    <state x="-1001" y="739" key="#com.intellij.fileTypes.FileTypeChooser/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596226891923" />
-    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog" timestamp="1596569051324">
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1606562882998">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1596569051324" />
-    <state x="-1211" y="569" key="SettingsEditor" timestamp="1596124772096">
-      <screen x="-1440" y="-338" width="1440" height="2537" />
-    </state>
-    <state x="-1211" y="569" key="SettingsEditor/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596124772096" />
-    <state width="584" height="400" key="SwitcherDM" timestamp="1596474347701">
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1606562882998" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1606122212293">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="500" height="400" key="SwitcherDM/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596125359661" />
-    <state width="584" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1596474347701" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1604309317457">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="440" y="245" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596638452325" />
-    <state x="-1063" y="255" key="Vcs.Push.Dialog.v2/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596712631217" />
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1604309317457" />
-    <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596567807258">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="638" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027@0.23.1680.1027" timestamp="1596567807258" />
-    <state x="538" y="291" width="604" height="490" key="find.popup" timestamp="1596560971272">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="538" y="291" width="604" height="490" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596560971272" />
-    <state x="505" y="248" width="670" height="675" key="run.anything.popup" timestamp="1596740242210">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="505" y="248" width="670" height="675" key="run.anything.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1596740242210" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1598006313188">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="-1007" y="223" width="670" height="1670" key="search.everywhere.popup/0.1463.1280.777/0.23.2560.1417/-1440.-338.1440.2537@-1440.-338.1440.2537" timestamp="1596663361745" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1598006313188" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1606122212293" />
   </component>
 </project>
