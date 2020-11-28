@@ -24,9 +24,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="ProjectContainer clears itself when GenerateProjectData function is called">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/GenerateProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateProjects.js" afterDir="false" />
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="You can now search for projects if you type a part of the name">
+      <change beforePath="$PROJECT_DIR$/Pages/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,7 @@
       <workItem from="1605513943585" duration="856000" />
       <workItem from="1606119324676" duration="4153000" />
       <workItem from="1606213149409" duration="2049000" />
-      <workItem from="1606562370865" duration="352000" />
+      <workItem from="1606562370865" duration="653000" />
     </task>
     <task id="LOCAL-00001" summary="Make makeAjaxCall and renderScetionData function">
       <created>1596474378576</created>
@@ -449,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606214237414</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="You can now search for projects if you type a part of the name">
+      <created>1606562880916</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1606562880916</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,7 +485,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Add content to the Sem Service section" />
     <MESSAGE value="Add content to the Fast Game section" />
     <MESSAGE value="Add content to the OneHourGameJam section" />
     <MESSAGE value="Fil in content in the sempruijs.nl section" />
@@ -504,13 +509,14 @@
     <MESSAGE value="Add an input bar and gave it style" />
     <MESSAGE value="Add place holder for input field" />
     <MESSAGE value="ProjectContainer clears itself when GenerateProjectData function is called" />
-    <option name="LAST_COMMIT_MESSAGE" value="ProjectContainer clears itself when GenerateProjectData function is called" />
+    <MESSAGE value="You can now search for projects if you type a part of the name" />
+    <option name="LAST_COMMIT_MESSAGE" value="You can now search for projects if you type a part of the name" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1606214240575">
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2" timestamp="1606562882998">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1606214240575" />
+    <state x="440" y="263" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1606562882998" />
     <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1606122212293">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
