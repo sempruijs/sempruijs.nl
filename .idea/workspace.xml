@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Update copyright text">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Also did that on index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleSheet/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,14 +131,7 @@
       <workItem from="1606562370865" duration="653000" />
       <workItem from="1606593087366" duration="348000" />
       <workItem from="1606723697198" duration="1422000" />
-      <workItem from="1610007697281" duration="4389000" />
-    </task>
-    <task id="LOCAL-00002" summary="There are now links in the games section">
-      <created>1596540785559</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1596540785559</updated>
+      <workItem from="1610007697281" duration="4843000" />
     </task>
     <task id="LOCAL-00003" summary="Add currently working on">
       <created>1596551347183</created>
@@ -475,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610137161630</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Also did that on index.html">
+      <created>1610137248435</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1610137248435</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +506,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Remove spell mistake in the sempruijs section" />
     <MESSAGE value="Remove spell mistakes and the view app on the Appstore button is now below the view on github button in the Wosta section" />
     <MESSAGE value="Remove spell mistake in SectionData.json" />
     <MESSAGE value="Remove games section in SectionData.json" />
@@ -530,6 +530,7 @@
     <MESSAGE value="Change &quot;onchange&quot; to &quot;oninput&quot; which makes the search bar faster" />
     <MESSAGE value="Add &quot;MusicShareHub&quot; in ProjectsData.json" />
     <MESSAGE value="Update copyright text" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update copyright text" />
+    <MESSAGE value="Also did that on index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Also did that on index.html" />
   </component>
 </project>
