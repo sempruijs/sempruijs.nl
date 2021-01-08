@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add Rainbowglow project in the projects page">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Put pypong section above Rainbowglow">
       <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,14 +130,7 @@
       <workItem from="1606562370865" duration="653000" />
       <workItem from="1606593087366" duration="348000" />
       <workItem from="1606723697198" duration="1422000" />
-      <workItem from="1610007697281" duration="6541000" />
-    </task>
-    <task id="LOCAL-00006" summary="Add Projects.css and projects.html">
-      <created>1596568383883</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1596568383883</updated>
+      <workItem from="1610007697281" duration="6850000" />
     </task>
     <task id="LOCAL-00007" summary="Fix the cannot find makeAjaxCall function">
       <created>1596625347451</created>
@@ -475,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610139307456</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Put pypong section above Rainbowglow">
+      <created>1610139418346</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1610139418347</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,7 +505,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Add copyright in projects.html" />
     <MESSAGE value="Change .AppStore background-color to #a58b66" />
     <MESSAGE value="Make GenerateElement.js" />
     <MESSAGE value="Change header to head in projects.html" />
@@ -530,6 +529,7 @@
     <MESSAGE value="Make font size in project__content font size bigger in the project page" />
     <MESSAGE value="Add &quot;pypong&quot; in the project page" />
     <MESSAGE value="Add Rainbowglow project in the projects page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Rainbowglow project in the projects page" />
+    <MESSAGE value="Put pypong section above Rainbowglow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Put pypong section above Rainbowglow" />
   </component>
 </project>

@@ -1,6 +1,17 @@
 {
   "Projects": [
     {
+      "Title": "Advent of code 2020",
+      "Content": "Advent of code 2020 is a competition where you have to solve puzzles. I thought that python was a great language to use and it was. I now know python better. Sadly, I didn't finish it to christmas. I really enjoyed the challenges, but they where just too long for my routine. School has top priority for me. I do not think I will compete next year because the challenges cost just too much time for me. Maybe if advent of code mini comes out or something similar like that.",
+      "Buttons": [
+        {
+          "ButtonClass": "GitHub",
+          "ButtonHref": "https://github.com/SemPruijs/AdventOfCode2020",
+          "ButtonText": "View on github"
+        }
+      ]
+    },
+    {
         "Title": "Pypong",
         "Content": "Pong made with python. I always wanted to learn python and make pong so I thought let's do it now. I made it with turtle in one night. Python was a very simple language and for small projects like these it's perfect. I enjoyed the process allot even tho it was short.",
         "Buttons": [
