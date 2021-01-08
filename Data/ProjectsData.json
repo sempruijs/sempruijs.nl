@@ -1,7 +1,18 @@
 {
   "Projects": [
+    {
+      "Title": "Rainbowglow",
+      "Content": "Rainbowglow is a game that I made in 30 minutes. It's hard to make a game in that short of a time period but I was up to a challenge. The game is trash but for 30 minutes it is good in my opinion. I think it is a good concept so I may turn it into a polished mobile game one day. Made with unity and fast game",
+      "Buttons": [
+        {
+          "ButtonClass": "AppStore",
+          "ButtonHref": "https://sempruijs.github.io/rainbowglow/",
+          "ButtonText": "View in browser"
+        }
+      ]
+    },
       {
-        "Title": "pypong",
+        "Title": "Pypong",
         "Content": "Pong made with python. I always wanted to learn python and make pong so I thought let's do it now. I made it with turtle in one night. Python was a very simple language and for small projects like these it's perfect. I enjoyed the process allot even tho it was short.",
         "Buttons": [
           {
