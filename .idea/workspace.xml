@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Put pypong section above Rainbowglow">
-      <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleSheet/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +133,7 @@
       <workItem from="1606593087366" duration="348000" />
       <workItem from="1606723697198" duration="1422000" />
       <workItem from="1610007697281" duration="6850000" />
+      <workItem from="1612085613815" duration="550000" />
     </task>
     <task id="LOCAL-00007" summary="Fix the cannot find makeAjaxCall function">
       <created>1596625347451</created>

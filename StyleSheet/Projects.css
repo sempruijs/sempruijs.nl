@@ -95,3 +95,11 @@ input[type=text] {
     margin: auto 0;
     text-align: center;
 }
+
+#Back {
+    position: fixed;
+    top: 0;
+    left: 0;
+    font-size: 25px;
+    color: #d2c9a5;
+}
