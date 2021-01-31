@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add back button">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StyleSheet/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/SectionData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/SectionData.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,14 +132,7 @@
       <workItem from="1606593087366" duration="348000" />
       <workItem from="1606723697198" duration="1422000" />
       <workItem from="1610007697281" duration="6850000" />
-      <workItem from="1612085613815" duration="1921000" />
-    </task>
-    <task id="LOCAL-00008" summary="Generate project content">
-      <created>1596625705364</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1596625705364</updated>
+      <workItem from="1612085613815" duration="2390000" />
     </task>
     <task id="LOCAL-00009" summary="Project section elements are created in a section">
       <created>1596626162857</created>
@@ -478,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612086182684</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Add comments">
+      <created>1612089771083</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1612089771083</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,7 +507,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Make GenerateElement.js" />
     <MESSAGE value="Change header to head in projects.html" />
     <MESSAGE value="Refactor GenerateProjects.js" />
     <MESSAGE value="Refactor GenerateProjects.js and GenerateSections.js" />
@@ -533,6 +531,7 @@
     <MESSAGE value="Add Rainbowglow project in the projects page" />
     <MESSAGE value="Put pypong section above Rainbowglow" />
     <MESSAGE value="Add back button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add back button" />
+    <MESSAGE value="Add comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comments" />
   </component>
 </project>

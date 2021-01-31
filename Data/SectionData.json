@@ -43,7 +43,7 @@
       "Title": "Contact",
       "Content": [
         {
-          "contentText": "If you want to collaborate with me, a game jam for example. You can send an e-mail to sem@pruijs.nl"
+          "contentText": "If you want to collaborate with me, a game jam for example. You can send an e-mail to <a href = \"mailto: sem@pruijs.nl\">sem@pruijs.nl</a>"
         }
       ],
       "ButtonClass": "",
