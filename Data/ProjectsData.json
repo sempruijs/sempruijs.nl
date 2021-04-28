@@ -1,6 +1,17 @@
 {
   "Projects": [
     {
+      "Title": "The Space",
+      "Content": "The space is a game that I made in 5 days for a game jam. I learned how to use the tiles system in unity and I got more experience of making pixel art. A friend made the monster sprites. The theme was lost in space, so I thought about a game where children are lost in a space. The game is a bit buggy but I am happy with the end result.",
+      "Buttons": [
+        {
+          "ButtonClass": "AppStore",
+          "ButtonHref": "https://sempruijs.itch.io/thespace",
+          "ButtonText": "View in browser"
+        }
+      ]
+    },
+    {
       "Title": "Advent of code 2020",
       "Content": "Advent of code 2020 is a competition where you have to solve puzzles. I thought that python was a great language to use and it was. I now know python better. Sadly, I didn't finish it to christmas. I really enjoyed the challenges, but they where just too long for my routine. School has top priority for me. I do not think I will compete next year because the challenges cost just too much time for me. Maybe if advent of code mini comes out or something similar like that.",
       "Buttons": [
@@ -22,7 +33,7 @@
           }
         ]
      },
-    
+
     {
       "Title": "Rainbowglow",
       "Content": "Rainbowglow is a game that I made in 30 minutes. It's hard to make a game in that short of a time period but I was up to a challenge. The game is trash but for 30 minutes it is good in my opinion. I think it is a good concept so I may turn it into a polished mobile game one day. Made with unity and fast game",
@@ -33,8 +44,8 @@
           "ButtonText": "View in browser"
         }
       ]
-    },    
-    
+    },
+
     {
         "Title": "Music Share Hub",
         "Content": "Music Share Hub (I know it's not the best name) is a little project that I made for sharing music. I found myself repeating an action over and over. It was thinking about: \"On which platform does person x listen music?\" Was it on spotify? or on youtube? So I made a website where you can type the name of a song in a text-field, and the links would generate automatically. The input was stored in the url so you could send that to your friends. And when your friend opens the url, they can decide for them self. It was pretty easy to make, but I did learn a few small things. Storing information in a url and styling a text-field. I was very happy that I could program, because I could solve a problem that I had with my programming skills",
@@ -51,7 +62,7 @@
           }
         ]
      },
-    
+
     {
       "Title": "Relaxed Legs",
       "Content": "A endless runner that I made on my own. I learned a few things that are important for game development. I worked on it alone from start to finish. I did the appstore connect uploading all on my own and I made my first Apple Tv and my first Mac application and uploaded them on the app store. I really enjoyed seeing my app on the Apple tv because the screen is so much bigger than a phone. I didn't spent to much time on it because it was not a \"new\" concept but I did finish it to the end which felt very rewarding.",
@@ -68,7 +79,7 @@
         }
       ]
     },
-    
+
     {
       "Title": "sempruijs.nl",
       "Content": "This website. I want to learn more about web technologies so I thought this website would be a great practice. I first tried to make a website with html and css and it was very easy to do that. The problem was that the scope was to big so I did it again but with a much smaller scope. I wanted to learn more about JavaScript so I learned how to load a .json file and creating html elements with information from the json file. I learned a little bit of JavaScript, how json works and I really like the whole process of making a website because you get fast results.",
@@ -80,7 +91,7 @@
         }
       ]
     },
-    
+
     {
       "Title": "One Hour Game Jam",
       "Content": "I participate almost every week in the One Hour Game Jam. I really enjoy making a game in one hour because the results are so bad that it is funny to play the games. I use the fast game project every week and through this game jam I can improve the Fast Game project. I participate in this jam almost every week so there is always something to play there :)",
@@ -106,7 +117,7 @@
       "Buttons": [
       ]
     },
-    
+
     {
       "Title": "Parallel Worlds",
       "Content": "Parallel Worlds was a game made for the HighPixel game jam 1. I had one week to make a game and it was fun to make. I learned more about game jams and that it is important to keep te scope small. You can play the game on itch.io",
@@ -160,7 +171,7 @@
 
       ]
     },
-    
+
     {
       "Title": "Wosta",
       "Content": "Wosta is a game made with Unity and C# and the rules are simple: Eat fish that are smaller then you. Avoid fish that are bigger then you. When you eat a small fish, you grow. Become big. I made this game in collaboration with my dad. I learned allot with this project because of my dad. He showed me how to avoid spaghetti code and write code that is easy to understand. We worked with unity collab and after he stopped paying for that, I put the project on GitHub. I also made some updates to the application. A made a christmas update and a sticker pack for iMessages and a update where you can where hats. I did those updates on my own. I really enjoyed working on this project.",
@@ -177,7 +188,7 @@
         }
       ]
     },
-    
+
     {
       "Title": "aMAZEing",
       "Content": "I want to make games. But Xcode was not the best way to do so. So I learned the basics of Unity to make this project. It is a maze game. And it has the clever name aMAZEing. I picked up Unity and C# fast. Making something in Xcode is so much harder then in Unity. I think this was made in about 1 or 2 days.",
@@ -189,7 +200,7 @@
         }
       ]
     },
-    
+
     {
       "Title": "Tic Tac Pro",
       "Content": "Tic Tac Pro is Tic Tac Toe but then you could play on a 3x3, a 4x4 bord and a 5x5 board. It was time to apply my knowledge from Learn to code 1, 2 and 3 and Intro to App Development with Swift to make an app! My brother said: A great practice to test you skills is to make Tic Tac Toe. It was a great tip from him and I started making Tic Tac Toe. I want to release the app so it had to have a cool feature. A 4x4 board and a 5x5 board. I spend too much time on this feature and when it was done, I came to a conclusion that it was not fun to play on a 4x4 board and a 5x5 board because who begins wins. :( This was painful to see and I learned something very important: PLAY TEST!, I could've just grabbed a piece of paper and test with a friend if this concept was fun to play. I did learn more about programming and writing elegant code.",
@@ -201,21 +212,21 @@
         }
       ]
     },
-    
+
     {
       "Title": "Intro to App Development with Swift",
       "Content": "Now that I knew how to program, it was time to learn how I should build an app with Xcode. This was a great book. After a few chapters I was working with Xcode and making simple apps. I completed the book and I had the knowledge on how to build an app.",
       "Buttons": [
       ]
     },
-    
+
     {
       "Title": "Learn to code 1, 2, 3",
       "Content": "Learn to code 1, 2 and 3 are three programming courses on swift playground on the iPad. After Randaam I thought that I need to know more on how to program. That was a great decision. I really loved the courses and I would recommend it to anyone who wants to know how to program.",
       "Buttons": [
       ]
     },
-    
+
     {
       "Title": "Randaam",
       "Content": "My dream was making an app for the app store. So I installed Xcode. I followed the first few chapters and I thought I knew enough and started making Randaam. Randaam is a dutch random person generator. It was build with Swift and UIkit. The most important skill was how to google. I knew what I was writing and how to write it but progress was going slow. I think that is because I had too little knowledge about UIkit and programming in general. My dad put the app on the app store with his appstore connect account. It was really fun to make it and I learned ALLOT from it. I am happy that my brother forced me to use git and now the project is on github. :) I still want to make the version with swiftUI, but I haven't got the time to do so.",
@@ -232,7 +243,7 @@
         }
       ]
     },
-    
+
     {
       "Title": "Scratch game",
       "Content": "My first thing that had something to do with programming was scratch. I made a bird game where you had to avoid other birds. I learned the basics of coding and it was really fun to make it. I think I was 11 or 12. Sadly, I lost cannot find the project on my account anymore :(",
