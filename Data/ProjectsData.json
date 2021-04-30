@@ -5,7 +5,7 @@
       "Content": "The space is a game that I made in 5 days for a game jam. I learned how to use the tiles system in unity and I got more experience of making pixel art. A friend made the monster sprites. The theme was lost in space, so I thought about a game where children are lost in a space. The game is a bit buggy but I am happy with the end result.",
       "Buttons": [
         {
-          "ButtonClass": "AppStore",
+          "ButtonClass": "Browser",
           "ButtonHref": "https://sempruijs.itch.io/thespace",
           "ButtonText": "View in browser"
         }
@@ -39,7 +39,7 @@
       "Content": "Rainbowglow is a game that I made in 30 minutes. It's hard to make a game in that short of a time period but I was up to a challenge. The game is trash but for 30 minutes it is good in my opinion. I think it is a good concept so I may turn it into a polished mobile game one day. Made with unity and fast game",
       "Buttons": [
         {
-          "ButtonClass": "AppStore",
+          "ButtonClass": "Browser",
           "ButtonHref": "https://sempruijs.github.io/rainbowglow/",
           "ButtonText": "View in browser"
         }
@@ -56,7 +56,7 @@
             "ButtonText": "View on github"
           },
           {
-            "ButtonClass": "AppStore",
+            "ButtonClass": "Browser",
             "ButtonHref": "https://sempruijs.github.io/MusicShareHub/",
             "ButtonText": "View in browser"
           }
@@ -76,6 +76,11 @@
           "ButtonClass": "AppStore",
           "ButtonHref": "https://apps.apple.com/us/app/relaxed-legs/id1525586149",
           "ButtonText": "View on the App Store"
+        },
+        {
+          "ButtonClass": "Browser",
+          "ButtonHref": "https://sempruijs.github.io/RelaxedLegsHosting/",
+          "ButtonText": "View in browser"
         }
       ]
     },
@@ -97,7 +102,7 @@
       "Content": "I participate almost every week in the One Hour Game Jam. I really enjoy making a game in one hour because the results are so bad that it is funny to play the games. I use the fast game project every week and through this game jam I can improve the Fast Game project. I participate in this jam almost every week so there is always something to play there :)",
       "Buttons": [
         {
-          "ButtonClass": "AppStore",
+          "ButtonClass": "Browser",
           "ButtonHref": "https://onehourgamejam.com/?page=author&author=qlpcuber",
           "ButtonText": "View games"
         }
@@ -113,7 +118,7 @@
 
     {
       "Title": "Sem Service",
-      "Content": "Sem Service is a candy machine made with an arduino. I want to make something with arduino's and I want to make a little bit of money so this was the perfect project. You can order a candy bar on a website if you're on our internet connection and then you can grab the candy bar out of the machine. My dad made the API from the website to the arduino and I created the machine and I learned with this project allot. How electricity works. How to control the arduino. C++. working with servo's and lots more. I will add in the future photos of the candy machine but I am busy with right now with Flyght.",
+      "Content": "Sem Service is a candy machine made with an arduino. I want to make something with arduino's and I want to make a little bit of money so this was the perfect project. You can order a candy bar on a website if you're on our internet connection and then you can grab the candy bar out of the machine. My dad made the API from the website to the arduino and I created the machine and I learned with this project allot. How electricity works. How to control the arduino. C++. working with servo's and lots more. I will add photos of the candy machine in the future",
       "Buttons": [
       ]
     },
@@ -123,7 +128,7 @@
       "Content": "Parallel Worlds was a game made for the HighPixel game jam 1. I had one week to make a game and it was fun to make. I learned more about game jams and that it is important to keep te scope small. You can play the game on itch.io",
       "Buttons": [
         {
-          "ButtonClass": "AppStore",
+          "ButtonClass": "Browser",
           "ButtonHref": "https://sempruijs.itch.io/parallel-worlds",
           "ButtonText": "View game"
         }
@@ -164,7 +169,7 @@
           "ButtonText": "View on github"
         },
         {
-          "ButtonClass": "AppStore",
+          "ButtonClass": "Browser",
           "ButtonHref": "https://sempruijs.itch.io/booshj",
           "ButtonText": "View game"
         }
@@ -229,7 +234,7 @@
 
     {
       "Title": "Randaam",
-      "Content": "My dream was making an app for the app store. So I installed Xcode. I followed the first few chapters and I thought I knew enough and started making Randaam. Randaam is a dutch random person generator. It was build with Swift and UIkit. The most important skill was how to google. I knew what I was writing and how to write it but progress was going slow. I think that is because I had too little knowledge about UIkit and programming in general. My dad put the app on the app store with his appstore connect account. It was really fun to make it and I learned ALLOT from it. I am happy that my brother forced me to use git and now the project is on github. :) I still want to make the version with swiftUI, but I haven't got the time to do so.",
+      "Content": "My dream was making an app for the app store. So I installed Xcode. I followed the first few chapters and I thought I knew enough and started making Randaam. Randaam is a dutch random person generator. It was build with Swift and UIkit. The most important skill was how to google. I knew what I was writing and how to write it but progress was going slow. I think that is because I had too little knowledge about UIkit and programming in general. My dad put the app on the app store with his appstore connect account. It was really fun to make it and I learned ALLOT from it. I am happy that my brother forced me to use git and now the project is on github. :) Later I remade Randaam with swiftUI",
       "Buttons": [
         {
           "ButtonClass": "GitHub",

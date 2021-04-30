@@ -62,6 +62,10 @@ a:hover {
     background-color: #a58b66;
 }
 
+.Browser {
+    background-color: #72b8b2;
+}
+
 label {
     display: block;
     margin: 0 auto;
@@ -81,7 +85,7 @@ input[type=text] {
 
 ::placeholder {
     color: #cac29f;
-    opacity: 1; 
+    opacity: 1;
 }
 
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
