@@ -9,7 +9,8 @@
           "ButtonHref": "https://sempruijs.itch.io/thespace",
           "ButtonText": "View in browser"
         }
-      ]
+      ],
+      "Tags": "game, game jam, browser, unity, c#, pixel art"
     },
     {
       "Title": "Advent of code 2020",
@@ -20,7 +21,8 @@
           "ButtonHref": "https://github.com/SemPruijs/AdventOfCode2020",
           "ButtonText": "View on github"
         }
-      ]
+      ],
+      "Tags": ""
     },
     {
         "Title": "Pypong",
@@ -31,7 +33,8 @@
             "ButtonHref": "https://github.com/SemPruijs/pypong",
             "ButtonText": "View on github"
           }
-        ]
+        ],
+      "Tags": ""
      },
 
     {
@@ -43,7 +46,8 @@
           "ButtonHref": "https://sempruijs.github.io/rainbowglow/",
           "ButtonText": "View in browser"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -60,7 +64,8 @@
             "ButtonHref": "https://sempruijs.github.io/MusicShareHub/",
             "ButtonText": "View in browser"
           }
-        ]
+        ],
+      "Tags": ""
      },
 
     {
@@ -82,7 +87,8 @@
           "ButtonHref": "https://sempruijs.github.io/RelaxedLegsHosting/",
           "ButtonText": "View in browser"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -94,7 +100,8 @@
           "ButtonHref": "http://github.com/sempruijs/sempruijs.nl",
           "ButtonText": "View on github"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -106,21 +113,24 @@
           "ButtonHref": "https://onehourgamejam.com/?page=author&author=qlpcuber",
           "ButtonText": "View games"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
       "Title": "Fast Game",
       "Content": "Fast Game is not a game but a unity 2d projects where you can make games fast. This is made for prototyping and for game jam where you are allowed to use pre made assets and scripts. The projects contains scripts that are easy to use and multifunctional. It also contains art assets that I have made for game jams and for the Fast Game project it self. It also has some music and sound effects for that I made for game jams and for the Fast Game project. When a prototype has to be made, I clone the Git repository and make changes to make to prototype. I do not make the repository public because I do not want people to use my music and sprites. Because of this project I do not have to repeat my self constantly when making games.",
       "Buttons": [
-      ]
+      ],
+      "Tags": ""
     },
 
     {
       "Title": "Sem Service",
       "Content": "Sem Service is a candy machine made with an arduino. I want to make something with arduino's and I want to make a little bit of money so this was the perfect project. You can order a candy bar on a website if you're on our internet connection and then you can grab the candy bar out of the machine. My dad made the API from the website to the arduino and I created the machine and I learned with this project allot. How electricity works. How to control the arduino. C++. working with servo's and lots more. I will add photos of the candy machine in the future",
       "Buttons": [
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -132,7 +142,8 @@
           "ButtonHref": "https://sempruijs.itch.io/parallel-worlds",
           "ButtonText": "View game"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -144,7 +155,8 @@
           "ButtonHref": "https://github.com/SemPruijs/Tankee",
           "ButtonText": "View on github"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -156,7 +168,8 @@
           "ButtonHref": "https://gikthub.com/SemPruijs/tapticenginetest",
           "ButtonText": "View on github"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -173,8 +186,8 @@
           "ButtonHref": "https://sempruijs.itch.io/booshj",
           "ButtonText": "View game"
         }
-
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -191,7 +204,8 @@
           "ButtonHref": "https://apps.apple.com/us/app/wosta/id1475454482",
           "ButtonText": "View on the App Store"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -203,7 +217,8 @@
           "ButtonHref": "https://github.com/SemPruijs/aMAZEing",
           "ButtonText": "View on github"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -215,21 +230,24 @@
           "ButtonHref": "http://github.com/sempruijs/tictacpro",
           "ButtonText": "View on github"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
       "Title": "Intro to App Development with Swift",
       "Content": "Now that I knew how to program, it was time to learn how I should build an app with Xcode. This was a great book. After a few chapters I was working with Xcode and making simple apps. I completed the book and I had the knowledge on how to build an app.",
       "Buttons": [
-      ]
+      ],
+      "Tags": ""
     },
 
     {
       "Title": "Learn to code 1, 2, 3",
       "Content": "Learn to code 1, 2 and 3 are three programming courses on swift playground on the iPad. After Randaam I thought that I need to know more on how to program. That was a great decision. I really loved the courses and I would recommend it to anyone who wants to know how to program.",
       "Buttons": [
-      ]
+      ],
+      "Tags": ""
     },
 
     {
@@ -246,14 +264,16 @@
           "ButtonHref": "https://apps.apple.com/us/app/randaam/id1347697172",
           "ButtonText": "View on the App Store"
         }
-      ]
+      ],
+      "Tags": ""
     },
 
     {
       "Title": "Scratch game",
       "Content": "My first thing that had something to do with programming was scratch. I made a bird game where you had to avoid other birds. I learned the basics of coding and it was really fun to make it. I think I was 11 or 12. Sadly, I lost cannot find the project on my account anymore :(",
       "Buttons": [
-      ]
+      ],
+      "Tags": ""
     }
   ]
 }

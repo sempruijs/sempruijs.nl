@@ -2,15 +2,15 @@ const projectDataUrl = "../Data/ProjectsData.json"
 
 function GenerateProjectData(jsonString) {
     clearProjectsContainer();
-    
+
     let input = document.getElementById("SearchBar").value;
 
     console.log(input);
-    
+
     let projectData = JSON.parse(jsonString);
     let projectsContainer = document.getElementById("ProjectsContainer");
     projectData.Projects.forEach(Project => {
-        if (Project.Title.toUpperCase().includes(input.toUpperCase()) || input === "") {
+        if (Project.Title.toUpperCase().includes(input.toUpperCase()) || input === "" || Project.Tags.toUpperCase().split(", ").includes(input.toUpperCase())) {
             console.log(input)
             //Make project section
             let projectSection = document.createElement("section");
@@ -23,7 +23,7 @@ function GenerateProjectData(jsonString) {
             //Generate buttons
             Project.Buttons.forEach(Button => {
                 GenerateButton("a", Button.ButtonClass, Button.ButtonText, Button.ButtonHref, projectSection);
-            })   
+            })
         }
     })
 }
@@ -33,7 +33,7 @@ function clearProjectsContainer() {
 }
 
 function renderProjectData() {
-    makeAjaxCall("GET", projectDataUrl, GenerateProjectData);   
+    makeAjaxCall("GET", projectDataUrl, GenerateProjectData);
 }
 
 renderProjectData();
