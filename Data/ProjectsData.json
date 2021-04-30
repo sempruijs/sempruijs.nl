@@ -22,7 +22,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": ""
+      "Tags": "python"
     },
     {
         "Title": "Pypong",
@@ -34,7 +34,7 @@
             "ButtonText": "View on github"
           }
         ],
-      "Tags": ""
+      "Tags": "python, game, practice"
      },
 
     {
@@ -47,7 +47,7 @@
           "ButtonText": "View in browser"
         }
       ],
-      "Tags": ""
+      "Tags": "game, unity, c#, browser"
     },
 
     {
@@ -65,7 +65,7 @@
             "ButtonText": "View in browser"
           }
         ],
-      "Tags": ""
+      "Tags": "html, css, javascript, js, website, browser"
      },
 
     {
@@ -88,7 +88,7 @@
           "ButtonText": "View in browser"
         }
       ],
-      "Tags": ""
+      "Tags": "game, unity, c#, browser, appstore, app store, ios, apple tv, macos, ipados"
     },
 
     {
@@ -101,7 +101,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": ""
+      "Tags": "html, css, javascript, json, website"
     },
 
     {
@@ -114,7 +114,7 @@
           "ButtonText": "View games"
         }
       ],
-      "Tags": ""
+      "Tags": "game, games, unity, c#, gamejam, game jam, browser"
     },
 
     {
@@ -122,7 +122,7 @@
       "Content": "Fast Game is not a game but a unity 2d projects where you can make games fast. This is made for prototyping and for game jam where you are allowed to use pre made assets and scripts. The projects contains scripts that are easy to use and multifunctional. It also contains art assets that I have made for game jams and for the Fast Game project it self. It also has some music and sound effects for that I made for game jams and for the Fast Game project. When a prototype has to be made, I clone the Git repository and make changes to make to prototype. I do not make the repository public because I do not want people to use my music and sprites. Because of this project I do not have to repeat my self constantly when making games.",
       "Buttons": [
       ],
-      "Tags": ""
+      "Tags": "tool, unity, c#"
     },
 
     {
@@ -130,7 +130,7 @@
       "Content": "Sem Service is a candy machine made with an arduino. I want to make something with arduino's and I want to make a little bit of money so this was the perfect project. You can order a candy bar on a website if you're on our internet connection and then you can grab the candy bar out of the machine. My dad made the API from the website to the arduino and I created the machine and I learned with this project allot. How electricity works. How to control the arduino. C++. working with servo's and lots more. I will add photos of the candy machine in the future",
       "Buttons": [
       ],
-      "Tags": ""
+      "Tags": "hardware, c++, cpp, lego"
     },
 
     {
@@ -143,7 +143,7 @@
           "ButtonText": "View game"
         }
       ],
-      "Tags": ""
+      "Tags": "game, c#, unity, gamejam, game jam, browser"
     },
 
     {
@@ -156,7 +156,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": ""
+      "Tags": "unity, c#, game"
     },
 
     {
@@ -169,7 +169,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": ""
+      "Tags": "app, ios uikit, swift"
     },
 
     {
@@ -187,7 +187,7 @@
           "ButtonText": "View game"
         }
       ],
-      "Tags": ""
+      "Tags": "game, hard, browser, unity, c#"
     },
 
     {
@@ -205,7 +205,7 @@
           "ButtonText": "View on the App Store"
         }
       ],
-      "Tags": ""
+      "Tags": "game, c#, unity, app store, appstore, ios, ipados, gamecenter, game center, iphone, ipad"
     },
 
     {
@@ -218,7 +218,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": ""
+      "Tags": "game, c#, unity"
     },
 
     {
@@ -231,7 +231,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": ""
+      "Tags": "ios, uikit, swift"
     },
 
     {
@@ -239,7 +239,7 @@
       "Content": "Now that I knew how to program, it was time to learn how I should build an app with Xcode. This was a great book. After a few chapters I was working with Xcode and making simple apps. I completed the book and I had the knowledge on how to build an app.",
       "Buttons": [
       ],
-      "Tags": ""
+      "Tags": "book, tutorial"
     },
 
     {
@@ -247,7 +247,7 @@
       "Content": "Learn to code 1, 2 and 3 are three programming courses on swift playground on the iPad. After Randaam I thought that I need to know more on how to program. That was a great decision. I really loved the courses and I would recommend it to anyone who wants to know how to program.",
       "Buttons": [
       ],
-      "Tags": ""
+      "Tags": "book, tutorial"
     },
 
     {
@@ -265,7 +265,7 @@
           "ButtonText": "View on the App Store"
         }
       ],
-      "Tags": ""
+      "Tags": "ios, iphone, ipad, uikit, swift, app, appstore, app store"
     },
 
     {
@@ -273,7 +273,7 @@
       "Content": "My first thing that had something to do with programming was scratch. I made a bird game where you had to avoid other birds. I learned the basics of coding and it was really fun to make it. I think I was 11 or 12. Sadly, I lost cannot find the project on my account anymore :(",
       "Buttons": [
       ],
-      "Tags": ""
+      "Tags": "game"
     }
   ]
 }

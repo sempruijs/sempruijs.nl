@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Remove some spell mistakes">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Projects now have tags which improve the search bar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/GenerateProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateProjects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,14 +135,7 @@
       <workItem from="1612085613815" duration="2651000" />
       <workItem from="1616180329743" duration="296000" />
       <workItem from="1617462067707" duration="609000" />
-      <workItem from="1619640128074" duration="6125000" />
-    </task>
-    <task id="LOCAL-00015" summary="Set sections in the right order">
-      <created>1596712625864</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1596712625864</updated>
+      <workItem from="1619640128074" duration="7062000" />
     </task>
     <task id="LOCAL-00016" summary="Fil in content for Scratch game">
       <created>1596719175118</created>
@@ -481,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619769815767</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Projects now have tags which improve the search bar">
+      <created>1619772699724</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1619772699724</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +510,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Fix sytax error in SectionData.json" />
     <MESSAGE value="Add relaxed legs section in the ProjectsData.json" />
     <MESSAGE value="Update the Currently working on section in the SectionData.json" />
     <MESSAGE value="Remove search bar in Projects.html" />
@@ -536,7 +534,8 @@
     <MESSAGE value="Remove contact section" />
     <MESSAGE value="Add view in browser buttons" />
     <MESSAGE value="Remove some spell mistakes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove some spell mistakes" />
+    <MESSAGE value="Projects now have tags which improve the search bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projects now have tags which improve the search bar" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
