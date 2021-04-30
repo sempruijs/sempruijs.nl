@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Remove contact section">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add view in browser buttons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StyleSheet/Projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleSheet/Projects.css" afterDir="false" />
@@ -136,14 +136,7 @@
       <workItem from="1612085613815" duration="2651000" />
       <workItem from="1616180329743" duration="296000" />
       <workItem from="1617462067707" duration="609000" />
-      <workItem from="1619640128074" duration="3176000" />
-    </task>
-    <task id="LOCAL-00013" summary="Change View on the App Store color">
-      <created>1596709324509</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1596709324509</updated>
+      <workItem from="1619640128074" duration="3540000" />
     </task>
     <task id="LOCAL-00014" summary="Add project sections in the ProjectsData.json without content">
       <created>1596711165366</created>
@@ -481,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619643129891</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Add view in browser buttons">
+      <created>1619769351078</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1619769351078</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +511,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Add apple-touch-icon" />
     <MESSAGE value="Add colorPallate.png" />
     <MESSAGE value="Fix sytax error in SectionData.json" />
     <MESSAGE value="Add relaxed legs section in the ProjectsData.json" />
@@ -536,7 +535,8 @@
     <MESSAGE value="Add The Space project" />
     <MESSAGE value="Update currently working on section" />
     <MESSAGE value="Remove contact section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove contact section" />
+    <MESSAGE value="Add view in browser buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add view in browser buttons" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
