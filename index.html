@@ -2,8 +2,8 @@
     <head>
         <title>Sem Pruijs</title>
         <!--Colors for website, the empty field will be filled with the RandomStyleSheet.js-->
-        <link rel="stylesheet" ID="stylesheet" href="">
-        
+        <link rel="stylesheet" ID="stylesheet" href="StyleSheet/Orange.css">
+
         <link rel="stylesheet" href="StyleSheet/MainPage.css">
         <!--Font-->
         <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap" rel="stylesheet">
@@ -11,8 +11,9 @@
         <script src="JS/RandomStyleSheet.js"></script>
         <script src="JS/MakeAjaxCall.js"></script>
         <script src="JS/GenerateSections.js"></script>
+        <script src="JS/GenerateProjects.js"></script>
         <script src="JS/GenerateElement.js"></script>
-        
+
         <!--Icon, this is for the icon when you share a link""-->
         <link rel="apple-touch-icon" sizes="57x57" href="./Images/Icon/57.png">
         <link rel="apple-touch-icon" sizes="76x76" href="./Images/Icon/72.png">
@@ -24,7 +25,9 @@
     </head>
     <body>
         <header>Sem Pruijs</header>
-        <div id="SectionContainer"></div> 
+        <div id="SectionContainer"></div>
+        <div id="SearchBarContainer"><input id="SearchBar" type="text" placeholder="Search for projects..." oninput="renderProjectData()"></div>
+        <div id="ProjectsContainer"></div>
         <footer>&#169;2021 Sem Pruijs</footer>
     </body>
 </html>

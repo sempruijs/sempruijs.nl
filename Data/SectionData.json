@@ -4,23 +4,9 @@
       "Title": "Introduction",
       "Content": [
         {
-          "contentText": "Hi there! I am Sem Pruijs and I love music, art, science and technology. I like making games, playing around with Arduino's and improving my software engineering skills. I am also interested in aerospace engineering and my dream is to go to mars."
+          "contentText": "Hi there! I am Sem Pruijs and I love music, art, science and technology. I like making games, playing around with Arduino's and improving my software engineering skills."
         }
-      ],
-      "ButtonClass": "",
-      "ButtonHref": "",
-      "ButtonContent": ""
-    },
-    {
-      "Title": "Projects",
-      "Content": [
-        {
-          "contentText": "I have made some projects over the years. You can see my program skills improve over time. My code is not perfect and I am 15 years old and I have much to learn and But I am improving day by day."
-        }
-      ],
-      "ButtonClass": "section__button",
-      "ButtonHref": "./Pages/projects.html",
-      "ButtonContent": "View projects"
+      ]
     },
     {
       "Title": "Currently working on",
@@ -28,10 +14,15 @@
         {
           "contentText": "Sem Service 2"
         }
-      ],
-      "ButtonClass": "",
-      "ButtonHref": "",
-      "ButtonContent": ""
+      ]
+    },
+    {
+      "Title": "Projects",
+      "Content": [
+        {
+          "contentText": "I have made some projects over the years. You can see my program skills improve over time. My code is not perfect and I am 15 years old and I have much to learn and But I am improving day by day."
+        }
+      ]
     }
   ]
 }

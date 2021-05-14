@@ -18,7 +18,7 @@ header {
     margin: 0;
 }
 
-#SectionContainer {
+#SectionContainer, #ProjectsContainer {
     padding: 0 32px;
     max-width: 800px;
     margin: 0 auto;
@@ -28,13 +28,13 @@ section {
     font-size: 18px;
 }
 
-.section__content, .section__button {
+.section__content, .section__button, .projects__content {
     display: block;
     padding: 15px;
     border-radius: 5px;
 }
 
-.section__title {
+.section__title, .projects__title {
     font-size: 35px;
     text-align: center;
     margin-top: 30px;
@@ -45,9 +45,21 @@ section {
     margin-top: 5px;
 }
 
+/*a {*/
+/*    text-decoration: none;*/
+/*}*/
+
 a {
+    transition: 0.2s;
+    display: block;
     text-decoration: none;
+    color: #efefef;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
 }
+
 
 p {
     margin: 0;
@@ -57,3 +69,37 @@ footer {
     padding-top: 15px;
     padding-left: 5px;
 }
+
+
+input[type=text] {
+    margin-top: 50px;
+    width: 800px;
+    height: 55px;
+    font-size: 30px;
+    border-radius: 10px;
+    padding-left: 8px;
+}
+
+::placeholder {
+    opacity: 1;
+}
+
+
+
+#SearchBarContainer {
+    margin: auto 0;
+    text-align: center;
+}
+
+/*!*Projects*!*/
+/*.GitHub {*/
+/*    background-color: #252a2f;*/
+/*}*/
+
+/*.AppStore {*/
+/*    background-color: #a58b66;*/
+/*}*/
+
+/*.Browser {*/
+/*    background-color: #72b8b2;*/
+/*}*/

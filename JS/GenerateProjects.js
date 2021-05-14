@@ -1,4 +1,4 @@
-const projectDataUrl = "../Data/ProjectsData.json"
+const projectDataUrl = "Data/ProjectsData.json"
 
 function GenerateProjectData(jsonString) {
     clearProjectsContainer();

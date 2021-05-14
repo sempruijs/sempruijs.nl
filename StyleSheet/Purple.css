@@ -18,3 +18,31 @@ a {
 .section__button {
     background-color: #a29cb5;
 }
+
+input[type=text] {
+    background-color: #69526e;
+    border: 5px solid #a29cb5;
+    color: #cac29f;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #cac29f;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #cac29f;
+}
+
+
+/*Projects*/
+.GitHub {
+    background-color: #8f899f;
+}
+
+.AppStore {
+    background-color: #a29cb5;
+}
+
+.Browser {
+    background-color: #a29cb5;
+}
