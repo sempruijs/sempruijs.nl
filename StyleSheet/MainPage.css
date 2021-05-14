@@ -45,10 +45,6 @@ section {
     margin-top: 5px;
 }
 
-/*a {*/
-/*    text-decoration: none;*/
-/*}*/
-
 a {
     transition: 0.2s;
     display: block;
@@ -90,16 +86,3 @@ input[type=text] {
     margin: auto 0;
     text-align: center;
 }
-
-/*!*Projects*!*/
-/*.GitHub {*/
-/*    background-color: #252a2f;*/
-/*}*/
-
-/*.AppStore {*/
-/*    background-color: #a58b66;*/
-/*}*/
-
-/*.Browser {*/
-/*    background-color: #72b8b2;*/
-/*}*/
