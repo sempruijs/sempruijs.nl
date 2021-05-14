@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Projects now have tags which improve the search bar">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add more tags">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
     </list>
@@ -135,21 +135,8 @@
       <workItem from="1612085613815" duration="2651000" />
       <workItem from="1616180329743" duration="296000" />
       <workItem from="1617462067707" duration="609000" />
-      <workItem from="1619640128074" duration="7062000" />
-    </task>
-    <task id="LOCAL-00016" summary="Fil in content for Scratch game">
-      <created>1596719175118</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1596719175118</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Fil content for the randaam, learn to code 1, 2 and 3, Intro to App Development with Swift and Tic Tac Pro sections">
-      <created>1596721347350</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1596721347350</updated>
+      <workItem from="1619640128074" duration="7593000" />
+      <workItem from="1620977737503" duration="355000" />
     </task>
     <task id="LOCAL-00018" summary="Fil content for aMAZEing">
       <created>1596721890373</created>
@@ -480,7 +467,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619772699724</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Add more tags to each project to improve the search bar">
+      <created>1619773605231</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1619773605232</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Add more tags">
+      <created>1619773717499</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1619773717499</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,8 +511,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Add relaxed legs section in the ProjectsData.json" />
-    <MESSAGE value="Update the Currently working on section in the SectionData.json" />
     <MESSAGE value="Remove search bar in Projects.html" />
     <MESSAGE value="Add outward animation" />
     <MESSAGE value="Add an input bar and gave it style" />
@@ -535,7 +534,9 @@
     <MESSAGE value="Add view in browser buttons" />
     <MESSAGE value="Remove some spell mistakes" />
     <MESSAGE value="Projects now have tags which improve the search bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projects now have tags which improve the search bar" />
+    <MESSAGE value="Add more tags to each project to improve the search bar" />
+    <MESSAGE value="Add more tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more tags" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

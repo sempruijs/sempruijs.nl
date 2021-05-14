@@ -10,7 +10,7 @@
           "ButtonText": "View in browser"
         }
       ],
-      "Tags": "game, game jam, browser, unity, c#, pixel art"
+      "Tags": "game, game jam, browser, unity, c#, pixel art, pixelart"
     },
     {
       "Title": "Advent of code 2020",
@@ -34,7 +34,7 @@
             "ButtonText": "View on github"
           }
         ],
-      "Tags": "python, game, practice"
+      "Tags": "python, game, practice, github"
      },
 
     {
@@ -65,7 +65,7 @@
             "ButtonText": "View in browser"
           }
         ],
-      "Tags": "html, css, javascript, js, website, browser"
+      "Tags": "html, css, javascript, js, website, browser, github"
      },
 
     {
@@ -88,7 +88,7 @@
           "ButtonText": "View in browser"
         }
       ],
-      "Tags": "game, unity, c#, browser, appstore, app store, ios, apple tv, macos, ipados"
+      "Tags": "game, unity, c#, browser, appstore, app store, ios, apple tv, macos, ipados, github, gamecenter"
     },
 
     {
@@ -101,7 +101,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": "html, css, javascript, json, website, js"
+      "Tags": "html, css, javascript, json, website, js, github"
     },
 
     {
@@ -156,7 +156,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": "unity, c#, game"
+      "Tags": "unity, c#, game, github"
     },
 
     {
@@ -169,7 +169,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": "app, ios uikit, swift"
+      "Tags": "app, ios uikit, swift, github"
     },
 
     {
@@ -187,7 +187,7 @@
           "ButtonText": "View game"
         }
       ],
-      "Tags": "game, hard, browser, unity, c#"
+      "Tags": "game, hard, browser, unity, c#, github"
     },
 
     {
@@ -205,7 +205,7 @@
           "ButtonText": "View on the App Store"
         }
       ],
-      "Tags": "game, c#, unity, app store, appstore, ios, ipados, gamecenter, game center, iphone, ipad"
+      "Tags": "game, c#, unity, app store, appstore, ios, ipados, gamecenter, game center, iphone, ipad, github"
     },
 
     {
@@ -218,7 +218,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": "game, c#, unity"
+      "Tags": "game, c#, unity, github"
     },
 
     {
@@ -231,7 +231,7 @@
           "ButtonText": "View on github"
         }
       ],
-      "Tags": "ios, uikit, swift"
+      "Tags": "ios, uikit, swift, github"
     },
 
     {
@@ -265,7 +265,7 @@
           "ButtonText": "View on the App Store"
         }
       ],
-      "Tags": "ios, iphone, ipad, uikit, swift, app, appstore, app store"
+      "Tags": "ios, iphone, ipad, uikit, swift, app, appstore, app store, github"
     },
 
     {
