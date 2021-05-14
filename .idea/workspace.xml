@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add more tags">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add github tag to projects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/GenerateProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateProjects.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,14 +136,7 @@
       <workItem from="1616180329743" duration="296000" />
       <workItem from="1617462067707" duration="609000" />
       <workItem from="1619640128074" duration="7593000" />
-      <workItem from="1620977737503" duration="355000" />
-    </task>
-    <task id="LOCAL-00018" summary="Fil content for aMAZEing">
-      <created>1596721890373</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1596721890373</updated>
+      <workItem from="1620977737503" duration="1439000" />
     </task>
     <task id="LOCAL-00019" summary="Fil content in the Wosta section">
       <created>1596722715503</created>
@@ -481,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619773717499</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Add github tag to projects">
+      <created>1620978157362</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1620978157363</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +511,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Remove search bar in Projects.html" />
     <MESSAGE value="Add outward animation" />
     <MESSAGE value="Add an input bar and gave it style" />
     <MESSAGE value="Add place holder for input field" />
@@ -536,7 +535,8 @@
     <MESSAGE value="Projects now have tags which improve the search bar" />
     <MESSAGE value="Add more tags to each project to improve the search bar" />
     <MESSAGE value="Add more tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add more tags" />
+    <MESSAGE value="Add github tag to projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add github tag to projects" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

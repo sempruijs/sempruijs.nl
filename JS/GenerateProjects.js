@@ -10,7 +10,14 @@ function GenerateProjectData(jsonString) {
     let projectData = JSON.parse(jsonString);
     let projectsContainer = document.getElementById("ProjectsContainer");
     projectData.Projects.forEach(Project => {
-        if (Project.Title.toUpperCase().includes(input.toUpperCase()) || input === "" || Project.Tags.toUpperCase().split(", ").includes(input.toUpperCase())) {
+        var inputContainsTag = false
+        Project.Tags.toUpperCase().split(", ").forEach(tag => {
+            if (tag.includes(input.toUpperCase())) {
+                //true
+                inputContainsTag = true
+            }
+        })
+        if (Project.Title.toUpperCase().includes(input.toUpperCase()) || input === "" || inputContainsTag) {
             console.log(input)
             //Make project section
             let projectSection = document.createElement("section");
