@@ -19,18 +19,25 @@ a {
     background-color: #a29cb5;
 }
 
+
+/*Search bar*/
 input[type=text] {
     background-color: #69526e;
-    border: 5px solid #a29cb5;
+    border: 5px solid #a8a2bc;
     color: #cac29f;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #bbbdca;
+    opacity: 1; /* Firefox */
 }
 
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
-    color: #cac29f;
+    color: #bbbdca;
 }
 
 ::-ms-input-placeholder { /* Microsoft Edge */
-    color: #cac29f;
+    color: #bbbdca;
 }
 
 

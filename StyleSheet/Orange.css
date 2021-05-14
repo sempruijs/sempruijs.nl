@@ -25,6 +25,11 @@ input[type=text] {
     color: #cac29f;
 }
 
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #cac29f;
+    opacity: 1; /* Firefox */
+}
+
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
     color: #cac29f;
 }
