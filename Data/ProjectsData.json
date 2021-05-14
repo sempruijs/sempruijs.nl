@@ -5,12 +5,17 @@
       "Content": "The space is a game that I made in 5 days for a game jam. I learned how to use the tiles system in unity and I got more experience of making pixel art. A friend made the monster sprites. The theme was lost in space, so I thought about a game where children are lost in a space. The game is a bit buggy but I am happy with the end result.",
       "Buttons": [
         {
+          "ButtonClass": "GitHub",
+          "ButtonHref": "https://github.com/SemPruijs/TheSpace",
+          "ButtonText": "View on github"
+        },
+        {
           "ButtonClass": "Browser",
           "ButtonHref": "https://sempruijs.itch.io/thespace",
           "ButtonText": "View in browser"
         }
       ],
-      "Tags": "game, game jam, browser, unity, c#, pixel art, pixelart"
+      "Tags": "game, game jam, browser, unity, c#, pixel art, pixelart, github"
     },
     {
       "Title": "Advent of code 2020",
