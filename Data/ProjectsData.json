@@ -257,7 +257,7 @@
 
     {
       "Title": "Randaam",
-      "Content": "My dream was making an app for the app store. So I installed Xcode. I followed the first few chapters and I thought I knew enough and started making Randaam. Randaam is a dutch random person generator. It was build with Swift and UIkit. The most important skill was how to google. I knew what I was writing and how to write it but progress was going slow. I think that is because I had too little knowledge about UIkit and programming in general. My dad put the app on the app store with his appstore connect account. It was really fun to make it and I learned ALLOT from it. I am happy that my brother forced me to use git and now the project is on github. :) Later I remade Randaam with swiftUI",
+      "Content": "My dream was making an app for the app store. So I installed Xcode. I followed the first few chapters and I thought I knew enough and started making Randaam. Randaam is a dutch random person generator. It was build with Swift and UIkit. The most important skill was how to google. I knew what I was writing and how to write it but progress was going slow. I think that is because I had too little knowledge about UIkit and programming in general. My dad put the app on the app store with his appstore connect account. It was really fun to make it and I learned ALLOT from it. I am happy that my brother forced me to use git and now the project is on github. :) Later I remade Randaam with swiftUI. I also made randaam for the web with javascript later. I learned how to make my own type in javascript and how to implement dark mode to a website with system theme.",
       "Buttons": [
         {
           "ButtonClass": "GitHub",
@@ -268,9 +268,14 @@
           "ButtonClass": "AppStore",
           "ButtonHref": "https://apps.apple.com/us/app/randaam/id1347697172",
           "ButtonText": "View on the App Store"
+        },
+        {
+          "ButtonClass": "Browser",
+          "ButtonHref": "https://randaam.pizzagezond.nl/",
+          "ButtonText": "View Randaam in browser"
         }
       ],
-      "Tags": "ios, iphone, ipad, uikit, swift, app, appstore, app store, github"
+      "Tags": "ios, iphone, ipad, uikit, swift, swiftui, app, appstore, app store, github, website, browser, javascript, html, css"
     },
 
     {

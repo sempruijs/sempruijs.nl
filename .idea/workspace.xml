@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Change searchbar placeholder text color">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +138,8 @@
       <workItem from="1619640128074" duration="7593000" />
       <workItem from="1620977737503" duration="2569000" />
       <workItem from="1621009422327" duration="4585000" />
+      <workItem from="1621590906985" duration="766000" />
+      <workItem from="1622624989816" duration="524000" />
     </task>
     <task id="LOCAL-00024" summary="Add content to the OneHourGameJam section">
       <created>1596726296038</created>
