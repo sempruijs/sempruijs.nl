@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Change searchbar placeholder text color">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add randaam web to website">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
     </list>
@@ -139,14 +139,7 @@
       <workItem from="1620977737503" duration="2569000" />
       <workItem from="1621009422327" duration="4585000" />
       <workItem from="1621590906985" duration="766000" />
-      <workItem from="1622624989816" duration="524000" />
-    </task>
-    <task id="LOCAL-00024" summary="Add content to the OneHourGameJam section">
-      <created>1596726296038</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1596726296038</updated>
+      <workItem from="1622624989816" duration="850000" />
     </task>
     <task id="LOCAL-00025" summary="Fil in content in the sempruijs.nl section">
       <created>1596726846879</created>
@@ -484,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621016914516</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Add randaam web to website">
+      <created>1622625570248</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1622625570249</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +514,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Change &quot;onchange&quot; to &quot;oninput&quot; which makes the search bar faster" />
     <MESSAGE value="Add &quot;MusicShareHub&quot; in ProjectsData.json" />
     <MESSAGE value="Update copyright text" />
     <MESSAGE value="Also did that on index.html" />
@@ -539,7 +538,8 @@
     <MESSAGE value="index.html and projects.html are now combined into one page" />
     <MESSAGE value="Delete projects.html and Projects.css" />
     <MESSAGE value="Change searchbar placeholder text color" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change searchbar placeholder text color" />
+    <MESSAGE value="Add randaam web to website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add randaam web to website" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
