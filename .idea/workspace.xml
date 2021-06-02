@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Add pizzagezond.nl to my projects">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Separate Randaam and randaam web into 2 different projects because there was not a link to the randaam web github">
       <change beforePath="$PROJECT_DIR$/Data/ProjectsData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Data/ProjectsData.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,14 +138,7 @@
       <workItem from="1620977737503" duration="2569000" />
       <workItem from="1621009422327" duration="4585000" />
       <workItem from="1621590906985" duration="766000" />
-      <workItem from="1622624989816" duration="1675000" />
-    </task>
-    <task id="LOCAL-00026" summary="Remove spell mistake in the sempruijs section">
-      <created>1596726882881</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1596726882881</updated>
+      <workItem from="1622624989816" duration="1969000" />
     </task>
     <task id="LOCAL-00027" summary="Remove spell mistakes and the view app on the Appstore button is now below the view on github button in the Wosta section">
       <created>1596727247834</created>
@@ -484,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622625905920</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Separate Randaam and randaam web into 2 different projects because there was not a link to the randaam web github">
+      <created>1622658912698</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1622658912698</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -514,7 +513,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Update copyright text" />
     <MESSAGE value="Also did that on index.html" />
     <MESSAGE value="Make font size in project__content font size bigger in the project page" />
     <MESSAGE value="Add &quot;pypong&quot; in the project page" />
@@ -539,7 +537,8 @@
     <MESSAGE value="Change searchbar placeholder text color" />
     <MESSAGE value="Add randaam web to website" />
     <MESSAGE value="Add pizzagezond.nl to my projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add pizzagezond.nl to my projects" />
+    <MESSAGE value="Separate Randaam and randaam web into 2 different projects because there was not a link to the randaam web github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Separate Randaam and randaam web into 2 different projects because there was not a link to the randaam web github" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
