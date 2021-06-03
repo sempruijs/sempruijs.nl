@@ -13,7 +13,6 @@ function GenerateProjectData(jsonString) {
         var inputContainsTag = false
         Project.Tags.toUpperCase().split(", ").forEach(tag => {
             if (tag.includes(input.toUpperCase())) {
-                //true
                 inputContainsTag = true
             }
         })
