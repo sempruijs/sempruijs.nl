@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Remove spell mistake in Projects section" />
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Remove spell mistake in Projects section">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/GenerateProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateProjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/GenerateSections.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/GenerateSections.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,6 +146,7 @@
       <workItem from="1626214243584" duration="554000" />
       <workItem from="1626693341967" duration="576000" />
       <workItem from="1627585148837" duration="806000" />
+      <workItem from="1631965531522" duration="2041000" />
     </task>
     <task id="LOCAL-00029" summary="Remove games section in SectionData.json">
       <created>1596728677821</created>

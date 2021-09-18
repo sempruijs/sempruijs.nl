@@ -1,4 +1,4 @@
-const sectionDataUrl = "./Data/SectionData.json"
+const sectionDataUrl = "./Content/Section.json"
 
 function renderSectionData(jsonString) {
     let sectionData = JSON.parse(jsonString);
