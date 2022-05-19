@@ -23,7 +23,7 @@ function GenerateProjectData(jsonString) {
             projectsContainer.appendChild(projectSection);
 
             //Generate title and content
-            GenerateElement("div", "projects__title", Project.Title, projectSection);
+            GenerateElement("h2", "projects__title", Project.Title, projectSection);
             GenerateElement("div", "projects__content", Project.Content, projectSection);
 
             //Generate buttons
