@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Remove spell mistake in Projects section">
+    <list default="true" id="3bc84f09-b6e6-4f98-8c43-f1487a537f66" name="Default Changelist" comment="Make a change to force rebuild">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,21 +144,7 @@
       <workItem from="1627585148837" duration="806000" />
       <workItem from="1631965531522" duration="2041000" />
       <workItem from="1652169318997" duration="167000" />
-      <workItem from="1652971394815" duration="928000" />
-    </task>
-    <task id="LOCAL-00029" summary="Remove games section in SectionData.json">
-      <created>1596728677821</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1596728677821</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Add copyright in projects.html">
-      <created>1596729722497</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1596729722498</updated>
+      <workItem from="1652971394815" duration="3274000" />
     </task>
     <task id="LOCAL-00031" summary="Change .AppStore background-color to #a58b66">
       <created>1596730026369</created>
@@ -489,7 +475,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627585221124</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Make a change to force rebuild">
+      <created>1652984130862</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1652984130863</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Make a change to force rebuild">
+      <created>1652984453550</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1652984453550</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -518,7 +518,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="RELOAD_CONTEXT" value="false" />
-    <MESSAGE value="Add &quot;pypong&quot; in the project page" />
     <MESSAGE value="Add Rainbowglow project in the projects page" />
     <MESSAGE value="Put pypong section above Rainbowglow" />
     <MESSAGE value="Add back button" />
@@ -543,7 +542,8 @@
     <MESSAGE value="Separate Randaam and randaam web into 2 different projects because there was not a link to the randaam web github" />
     <MESSAGE value="Add github tag to Randaam Web project" />
     <MESSAGE value="Remove spell mistake in Projects section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove spell mistake in Projects section" />
+    <MESSAGE value="Make a change to force rebuild" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make a change to force rebuild" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

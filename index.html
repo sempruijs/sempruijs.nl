@@ -10,7 +10,6 @@
         <!--Scripts-->
         <script src="JS/RandomStyleSheet.js"></script>
         <script src="JS/MakeAjaxCall.js"></script>
-        <script src="JS/GenerateSections.js"></script>
         <script src="JS/GenerateProjects.js"></script>
         <script src="JS/GenerateElement.js"></script>
 
@@ -34,8 +33,22 @@
         <meta property="og:type" content="website">
     </head>
     <body>
-        <header>Sem Pruijs</header>
-        <div id="SectionContainer"></div>
+        <header>
+<h1>Sem Pruijs</h1>
+
+        </header>
+        <div id="SectionContainer">
+            <section>
+                <h2 class="section__title">About</h2>
+                <div class="section__content">
+                    <p>
+                        HI :) <br>
+                        On this website you can find some projects that I have worked on over the years. You can search by name or by topic, such as Web, or game. 
+                    </p>
+                </div>
+
+            </section>
+        </div>
         <div id="SearchBarContainer"><input id="SearchBar" type="text" placeholder="Search for projects..." oninput="renderProjectData()"></div>
         <div id="ProjectsContainer"></div>
         <footer>&#169;2021 Sem Pruijs</footer>
