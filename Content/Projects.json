@@ -1,5 +1,41 @@
 {
   "Projects": [
+      {
+      "Title": "kenmerkende aspecten",
+      "Content": "Maybe this is one of my greatest accomplishments. I learned to program without my vision, and navigating my computer just with a screen-reader. But I learned one other important thing too! Never use javascript period. Because of my visual imparement, if you would see \"object is undifined\", you could figure out what the bug is if you stare a bit. (when your lucky) But when I lost my vission this was horrible! I had to read every sentence in my script with braille to figure out where that one copital letter is that jambels it all up. So, I learned typescript. With typescript the compiler should me the bug. But I wanted to deploy my site so I learned about CI/CD. My brother is a big Nix fan so he encouraged me to make my build process reproducable with a Nix flake. I learned more about dev-shells and configured MacOS with Nix Darwin and the home-manager. The website is not that impresive, it helps you remembering dutch historical facts, but this is the first project that was succesful when trying to develop with my visual imperment, makes me feel very happy about ka.pruijs.net",
+      "Buttons": [
+        {
+          "ButtonClass": "GitHub",
+          "ButtonHref": "https://github.com/SemPruijs/ka",
+          "ButtonText": "View on github"
+        },
+        {
+          "ButtonClass": "Browser",
+          "ButtonHref": "https://ka.pruijs.net",
+          "ButtonText": "View ka.pruijs.net in the browser"
+        }
+      ],
+      "Tags": "website, browser, typescript, html, css, github, nix, ci/cd, vip"
+    },
+
+    {
+      "Title": "learn you a haskell for great good",
+      "Content": "This is an introduction to Haskell. A functional programming language. Do I never read it from start to finish, haskell influenced me so much that I try in every language to write only pure functions and elliminate state as much as possible. Pure functions are the way to move forward and in almost all cases (not games) is writing only pure functions the best long-term approach for a project.",
+      "Buttons": [
+        {
+          "ButtonClass": "GitHub",
+          "ButtonHref": "https://github.com/SemPruijs/ka",
+          "ButtonText": "View on github"
+        },
+        {
+          "ButtonClass": "Browser",
+          "ButtonHref": "https://ka.pruijs.net",
+          "ButtonText": "View ka.pruijs.net in the browser"
+        }
+      ],
+      "Tags": "website, browser, typescript, html, css, github, nix, ci/cd, vip"
+    },
+
     {
       "Title": "Randaam Web",
       "Content": "This is randaam, but made for the browser. This is so much easier than making an app in UIKit. I learned how to make my own type in javascript and how to implement dark mode to a website with system theme.",
