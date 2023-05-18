@@ -1,18 +1,30 @@
 {
   "Projects": [
         {
+        "Title": "Contributing to open source",
+        "Content": "I did a few small cuntributions to element X for ios, element X is a matrix client, and made issues and small pull requests here and there. I learned the whole process of forking a repository, making changes on a branch and reading the contribution guidelines. I learned allot from contributing to open source, my main concern regarding my visual imperment, was if I was capable enough to collaborate with other people and reading allot of code that other people have wirtten. When I started it was pretty hard, but with enough practice was it possible and now I do not find it so hard anymore. I will keep contributing to open source to make software more accessible. You can look at my github to explore the places where my contributions are",
+        "Buttons": [
+          {
+            "ButtonClass": "GitHub",
+            "ButtonHref": "https://github.com/sempruijs",
+            "ButtonText": "View on github"
+          }
+        ],
+        "Tags": "swift, github, nix, element, matrix"
+      },
+        {
         "Title": "PAKS",
         "Content": "A website where you can drum simple rythms that also has great intergration with braille displays. I did not learn anything new except a bit with html textfields, I used the skills that I had learned from ka and made something new. It was nice to see that visual and non visual people could drum a rithm together",
         "Buttons": [
           {
             "ButtonClass": "GitHub",
-            "ButtonHref": "https://github.com/SemPruijs/ka",
+            "ButtonHref": "https://github.com/SemPruijs/paks",
             "ButtonText": "View on github"
           },
           {
             "ButtonClass": "Browser",
-            "ButtonHref": "https://ka.pruijs.net",
-            "ButtonText": "View ka.pruijs.net in the browser"
+            "ButtonHref": "https://paks.pruijs.net",
+            "ButtonText": "View paks.pruijs.net in the browser"
           }
         ],
         "Tags": "website, browser, typescript, html, css, github, nix, ci/cd, vip"
