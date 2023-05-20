@@ -1,6 +1,66 @@
 {
   "Projects": [
         {
+          "Title": "ye",
+          "Content": "A cli for fetching Kanye West quotes. I learned a bit more about using aync await in rust with the tokyo crate, and I used serde, a crate to convert different types of data formatting, so that I could convert json to an instance of a rust struct. This was made with the kanye.rest api.",
+          "Buttons": [
+            {
+              "ButtonClass": "GitHub",
+              "ButtonHref": "https://github.com/sempruijs/ye",
+              "ButtonText": "View on github"
+            }
+          ],
+          "Tags": "rust, github, cli, api, serde, tokyo"
+        },
+        {
+          "Title": "justhas",
+          "Content": "A simple cli for generating sha256 hashes.",
+          "Buttons": [
+            {
+              "ButtonClass": "GitHub",
+              "ButtonHref": "https://github.com/sempruijs/justhash",
+              "ButtonText": "View on github"
+            }
+          ],
+          "Tags": "rust, github, cli"
+        },
+        {
+        "Title": "new read",
+        "Content": "new-read is a new way of spelling dutch words so people with dyslexia can't write words the wrong way anymore. This is done by eliminating different ways to write the same sound. The nrc (new read converter) is wirtten in rust and I made a super small sort of language to define string convertions. I also used clap (command line argument parser) a rust crate to generate nice help menus for the cli.",
+        "Buttons": [
+          {
+            "ButtonClass": "GitHub",
+            "ButtonHref": "https://github.com/sempruijs/new-read",
+            "ButtonText": "View on github"
+          }
+        ],
+        "Tags": "rust, github, cli"
+      },
+      {
+        "Title": "randaam cli",
+        "Content": "It was time to use rust in my own projects. Randaam, the app that I mad when I was little as a command-line intervace. I published a crate on crates.io for the first time and written some documentation so people could read it on docs.rs",
+        "Buttons": [
+          {
+            "ButtonClass": "GitHub",
+            "ButtonHref": "https://github.com/sempruijs/randaam-cli",
+            "ButtonText": "View on github"
+          }
+        ],
+        "Tags": "rust, github, cli"
+      },
+      {
+        "Title": "The Rust programming language",
+        "Content": "As I learned from ka.pruijs.net and using javascript, error messages are very important, especially when you have a visual imperment. I've heard from other people that rust has amazing error messages and is becoming very populair because of its spead and safety. So I decided to learn the language mainly because of those error messages and its very strict type system which is also very important for a language when you have a visual imperment. Debugging is slower when you do not see that much, so not having to figure out what value what type is is a big plus. I read it from start to finish, and as I read more of the book, my sight became a bit better so I switched to Helix, which is a editor with vim-key bindings. I think I know rust the best of all languages that I used so far and it has become one of my favorites.",
+        "Buttons": [
+          {
+            "ButtonClass": "GitHub",
+            "ButtonHref": "https://github.com/sempruijs/learn-rust",
+            "ButtonText": "View on github"
+          }
+        ],
+        "Tags": "rust, github, book"
+      },
+      {
         "Title": "Contributing to open source",
         "Content": "I did a few small cuntributions to element X for ios, element X is a matrix client, and made issues and small pull requests here and there. I learned the whole process of forking a repository, making changes on a branch and reading the contribution guidelines. I learned allot from contributing to open source, my main concern regarding my visual imperment, was if I was capable enough to collaborate with other people and reading allot of code that other people have wirtten. When I started it was pretty hard, but with enough practice was it possible and now I do not find it so hard anymore. I will keep contributing to open source to make software more accessible. You can look at my github to explore the places where my contributions are",
         "Buttons": [
@@ -12,7 +72,7 @@
         ],
         "Tags": "swift, github, nix, element, matrix"
       },
-        {
+      {
         "Title": "PAKS",
         "Content": "A website where you can drum simple rythms that also has great intergration with braille displays. I did not learn anything new except a bit with html textfields, I used the skills that I had learned from ka and made something new. It was nice to see that visual and non visual people could drum a rithm together",
         "Buttons": [
@@ -46,7 +106,6 @@
       ],
       "Tags": "website, browser, typescript, html, css, github, nix, ci/cd, vip"
     },
-
     {
       "Title": "learn you a haskell for great good",
       "Content": "This is an introduction to Haskell. A functional programming language. Do I never read it from start to finish, haskell influenced me so much that I try in every language to write only pure functions and elliminate state as much as possible. Pure functions are the way to move forward and in almost all cases (not games) is writing only pure functions the best long-term approach for a project.",
@@ -64,7 +123,6 @@
       ],
       "Tags": "website, browser, typescript, html, css, github, nix, ci/cd, vip"
     },
-
     {
       "Title": "Randaam Web",
       "Content": "This is randaam, but made for the browser. This is so much easier than making an app in UIKit. I learned how to make my own type in javascript and how to implement dark mode to a website with system theme.",
